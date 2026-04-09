@@ -1,0 +1,2704 @@
+kode_klasifikasi;jenis_klasifikasi;jenis_arsip;waktu_aktif_num;waktu_aktif_ket;waktu_inaktif_num;waktu_inaktif_ket;nasib_akhir;nasib_akhir_ket
+PR 01.01;Fasilitatif ;"Rencana Strategis : Naskah-naskah yang berkaitan dengan Rencana Strategis (Renstra),  dimulai  dari  pengumpulan  data,  pengolahan
+sampai dengan penetapan
+";2;;3;;Permanen;
+PR 01.02;Fasilitatif ;"Trilateral Meeting : Naskah-naskah yang berkaitan dengan kegiatan TrilateralMeeting
+";2;;3;;Musnah;
+PR 01.03;Fasilitatif ;Rencana Kerja : Naskah-naskah yang berkaitan dengan rencana kerja;2;;3;;Permanen ;
+PR 01.04;Fasilitatif ;"Rencana Kerja dan Anggaran : Naskah-naskah yang berkaitan dengan kegiatan penyusunan Rencana Kerja dan Anggaran Kementerian/Lembaga (RKA K/L), yang di dalamnya berisi
+pagu indikatif dan pagu definitif
+";2;;3;;Permanen;
+PR 02.01;Fasilitatif ;"Unit Utama : Naskah-naskah yang berkaitan dengan evaluasi program
+dan kinerja pada kementerian dan unit utama
+";1;;4;;Permanen;
+PR 02.02;Fasilitatif ;"Kantor Wilayah : Naskah-naskah yang berkaitan dengan evaluasi program
+dan kinerja pada kantor wilayah
+";1;;4;;Permanen;
+PR 03;Fasilitatif ;"Laporan Akuntabilitas Kinerja Instansi Pemerintah
+(LAKIP)
+";2;;4;;Permanen;
+PR 04.01;Fasilitatif ;Laporan Bulanan : Naskah-naskah yang berkaitan dengan laporan Bulanan;1;;1;;Musnah;
+PR 04.02;Fasilitatif ;Laporan Triwulan : Naskah-naskah yang berkaitan dengan laporan Triwulan;1;;1;;Musnah;
+PR 04.03;Fasilitatif ;Laporan Semester : Naskah-naskah yang berkaitan dengan laporan semester;1;;2;;Musnah;
+PR 04.04;Fasilitatif ;Laporan Tahunan : Naskah-naskah yang berkaitan dengan laporan Tahunan;2;;3;;Permanen;
+PR 04.05;Fasilitatif ;Insidentil : Naskah-naskah yang berkaitan dengan laporan insidentil;2;;4;;Musnah;
+PR 05.01;Fasilitatif ;"Dengan DPR  : Naskah-naskah yang berkaitan dengan penyusunan bahan
+rapat kerja dengan DPR
+";1;;1;;Permanen;
+PR 05.02;Fasilitatif ;"Tingkat Kementerian : Naskah-naskah yang berkaitan dengan penyusunan bahan
+rapat kerja tingkat kementerian
+";1;;1;;Musnah;
+PR 05.03;Fasilitatif ;"Tingkat Unit Utama (RAKERNIS) : Naskah-naskah yang berkaitan dengan penyusunan bahan
+rapat kerja tingkat unit utama
+";1;;1;;Musnah;
+PR 05.04;Fasilitatif ;"Tingkat Kantor Wilayah : Naskah-naskah yang berkaitan dengan penyusunan bahan
+rapat kerja tingkat kantor wilayah
+";1;;1;;Musnah;
+PR 05.05;Fasilitatif ;"Rapat Pimpinan dan Rapat Staf : Naskah-naskah yang berkaitan dengan penyusunan bahan
+rapat pimpinan dan rapat staf
+";1;;1;;Musnah;
+PR 06.01;Fasilitatif ;"Sidang Kabinet Terbatas : Naskah-naskah yang berkaitan dengan penyusunan bahan
+sidang kabinet terbatas
+";1;;1;;Musnah;
+PR 06.02;Fasilitatif ;"Sidang Kabinet Paripurna : Naskah-naskah yang berkaitan dengan penyusunan bahan
+sidang kabinet paripurna
+";1;;1;;Musnah;
+OT 01.01;Fasilitatif ;Organisasi dan Tata Kerja Kementerian : Naskah-naskah yang berkaitan dengan organisasi dan tata kerja kementerian;;Selama Berlaku ;5;;Permanen;
+OT 01.02;Fasilitatif ;"Organisasi dan Tata Kerja Kantor Wilayah : Naskah-naskah yang berkaitan dengan organisasi dan tata
+kerja kantor wilayah
+";;Selama Berlaku;5;;Permanen;
+OT 01.03;Fasilitatif ;"Organisasi dan Tata Kerja UPT : Naskah-naskah yang berkaitan dengan organisasi dan tata
+kerja unit pelaksana teknis
+";;Selama Berlaku;5;;Permanen;
+OT 01.04;Fasilitatif ;"Evaluasi Kelembagaan : Naskah-naskah yang berkaitan dengan evaluasi
+kelembagaan
+";;Selama Berlaku;5;;Permanen;
+OT 02.01;Fasilitatif ;"Standarisasi Sarana Kerja : Naskah-naskah yang berkaitan dengan standarisasi
+sarana kerja
+";;Selama Berlaku;5;;Permanen;
+OT 02.02;Fasilitatif ;"Sistem, Prosedur dan Metoda Kerja : Naskah-naskah yang berkaitan dengan Standar
+Operasional Prosedur (SOP) dan rancangan peraturan menteri
+";;Selama Berlaku;5;;Permanen;
+OT 02.03;Fasilitatif ;"Analisa dan Uraian Jabatan : Naskah-naskah yang berkaitan dengan analisa dan uraian
+jabatan
+";;Selama Berlaku;5;;Permanen;
+OT 03.01;Fasilitatif ;"Penilaian Mandiri Pelaksanaan Reformasi Birokrasi  (PMRB) ; Naskah-naskah yang berkaitan dengan Penilaian Mandiri Pelaksanaan Reformasi Birokrasi (PMPRB)";2;;5;;Musnah;
+OT 03.02;Fasilitatif ;Zona Integritas (ZI) : Naskah-naskah yang berkaitan dengan Zona Integritas (ZI);2;;5;;Musnah;
+OT 03.03;Fasilitatif ;"Evaluasi Reformasi Birokrasi : Naskah-naskah yang berkaitan dengan evaluasi reformasi
+birokrasi
+";2;;5;;Musnah;
+OT 04;Fasilitatif ;Instruksi Menteri;;Selama Berlaku;5;;Musnah;
+KP 01.01;Fasilitatif ;Inventarisasi Jabatan/Peta Jabatan;2;"Tahun Setelah tahun 
+anggaran berakhir";8;;Musnah;
+KP 01.02;Fasilitatif ;Evaluasi Jabatan;2;"Tahun Setelah tahun 
+anggaran berakhir";8;;Musnah;
+KP 01.03;Fasilitatif ;Usulan Formasi;2;"Tahun Setelah tahun 
+anggaran berakhir";8;;Musnah;
+KP 01.04;Fasilitatif ;Alokasi Formasi;2;"Tahun Setelah tahun 
+anggaran berakhir";8;;Musnah;
+KP 02.01;Fasilitatif ;"Proses Penerimaan Pegawai 
+- Seleksi Pegawai
+- Penetapan Kelulusan
+- Pengumuman Kelulusan";2;"Tahun Setelah tahun 
+anggaran berakhir";8;;Dinilai Kembali;
+KP 02.02;Fasilitatif ;Berkas Lamaran Yang Tidak Diterima;1;"Tahun Setelah tahun 
+anggaran berakhir";1;Tahun setelah hak & kewajiban habis;Musnah;
+KP 02.03;Fasilitatif ;Surat Keputusan  CPNS/PNS Kolektif;2;"Tahun Setelah tahun 
+anggaran berakhir";3;;Dinilai Kembali;
+KP 02.04;Fasilitatif ;"Penerimaan Pegawai dari Politeknik Ilmu Pemasyarakatan
+dan AIM
+";2;"Tahun Setelah tahun 
+anggaran berakhir";8;;Dinilai Kembali;
+KP 02.05;Fasilitatif ;Ujian Dinas dan Ujian Penyusaian Ijazah;;;;;;
+KP 03.01;Fasilitatif ;Pengangkatan CPNS;1;Tahun setelah SK ditetapkan;2;;"Musnah 
+";"kecuali
+Nota Usul
+Perorangan
+masuk berkas
+perseorangan"
+KP 03.02;Fasilitatif ;Pengangkatan PNS;1;Tahun setelah SK ditetapkan;2;;"Musnah 
+";"kecuali
+Nota Usul
+Perorangan
+masuk berkas
+perseorangan"
+KP 03.03;Fasilitatif ;Pengangkatan Jabatan Struktural;1;Tahun setelah SK ditetapkan;2;;"Musnah 
+";"kecuali
+Nota Usul
+Perorangan
+masuk berkas
+perseorangan"
+KP 03.04;Fasilitatif ;Pengangkatan Jabatan Fungsional;1;Tahun setelah SK ditetapkan;2;;"Musnah 
+";"kecuali
+Nota Usul
+Perorangan
+masuk berkas
+perseorangan"
+KP 04.01;Fasilitatif ;Alih Tugas/Diperbantukan/Dipekerjakan/Pelaksana;1;Tahun setelah SK ditetapkan;2;;"Musnah 
+";"kecuali
+Nota Usul
+Perorangan
+masuk berkas
+perseorangan"
+KP 04.02;Fasilitatif ;Pelaksana Harian/Pelaksana Tugas;1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 04.03;Fasilitatif ;Pencantuman gelar Akadmik;1;;2;;Musnah;
+KP 04.04;Fasilitatif ;Kenaikan Gaji Berkala (KGB);2;;3;;Musnah;
+KP 04.05;Fasilitatif ;Kenaikan Pangkat/Golongan;1;Tahun setelah SK ditetapkan;2;;Musnah;"kecuali
+Nota Usul
+Perorangan
+masuk berkas
+perseorangan"
+KP 04.06;Fasilitatif ;Peninjauan Masa Kerja;1;;1;;Musnah;
+KP 04.07;Fasilitatif ;"Berkas  Badan  Pertimbangan  Jabatan  dan  Kepangkatan
+(Baperjakat)
+";1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 04.08;Fasilitatif ;Pengaktifan Kembali dari CLTN dan Hukuman Disiplin;;;;;;
+KP 05.01;Fasilitatif ;"Penilaian Prestasi Kerja Pegawai ( PPKP )
+- Sasaran Kerja Pegawai
+- Prestasi Kerja Pegawai";;;;;;
+KP 05.02;Fasilitatif ;Pembinaan Disiplin dan Kode Etik;;;;;;
+KP 05.03;Fasilitatif ;Pemberian Penghargaan dan Tanda Jasa;;;;;;
+KP 06.01;Fasilitatif ;"Pengembangan Kompetensi Jabatan Pimpinan Tinggi dan
+Adminstrasi
+";2;;3;;Musnah;
+KP 06.02;Fasilitatif ;Pengembangan Kompetensi Fungsional;2;;3;;Musnah;
+KP 06.03;Fasilitatif ;Pengiriman Peserta Diklat;;;;;;
+KP 06.04;Fasilitatif ;Bea Siswa;;;;;;
+KP 07.01;Fasilitatif ;"Tingkat Ringan (Pernyataatnn Tidak Puas, Teguran Lisan,
+Teguran Tertulis)
+";2;Tahun anggaran berjalan;3;;Musnah;kecuali BAP dan SK masuk berkas perorangan
+KP 07.02;Fasilitatif ;Tingkat Sedang (Penundaan KGB, KP dan Penurunan Gaji);2;Tahun anggaran berjalan;3;;Musnah;kecuali BAP dan SK masuk berkas perorangan
+KP 07.03;Fasilitatif ;"Tingkat Berat (Penurunan Pangkat, Pembebasan Jabatan,
+Pemberhentian Dengan Hormat/Tidak Dengan Hormat)
+";2;Tahun anggaran berjalan;3;;Musnah;kecuali BAP dan SK masuk berkas perorangan
+KP 08.01;Fasilitatif ;Data Pegawai;1;Tahun anggaran berjalan;2;;Musnah;
+KP 08.02;Fasilitatif ;Identitas Pegawai (Karpeg, Karsu, Karis);1;Tahun setelah pensiun;2;;Musnah;
+KP 08.03;Fasilitatif ;"Izin Kepegawaian (Izin Belajar, Tugas Belajar Dalam Negeri
+dan Luar Negeri)
+";1;Tahun setelah selesai pendidikan/tugas belajar;2;;Musnah;
+KP 08.04;Fasilitatif ;Keanggotaan Pegawai Dalam Organisasi Sosial;1;Tahun anggaran berjalan;2;;Musnah;
+KP 08.05;Fasilitatif ;Daftar Hadir/Absensi Pegawai;1;Tahun anggaran berjalan;2;;Musnah;
+KP 09.01;Fasilitatif ;Kesehatan;1;Tahun anggaran berjalan;2;;Musnah;
+KP 09.02;Fasilitatif ;Perumahan (TAPERUM, Biaya Uang Muka);1; Tahun setelah sertifikat terbit;2;;Musnah;kecuali sertifikat diserahkan ke pegawai
+KP 09.03;Fasilitatif ;Taspen;1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 09.04;Fasilitatif ;Cuti;1;Tahun anggaran berjalan;2;;Musnah;
+KP 09.05;Fasilitatif ;Uang Duka Tewas;1;Tahun anggaran berjalan;2;;Musnah;
+KP 09.06;Fasilitatif ;"Pembekalan Purnabakti
+";1;Tahun anggaran berjalan;2;;Musnah;
+KP 09.07;Fasilitatif ;"Mutasi  Keluarga Laporan Kekayaan 
+- Nikah
+- Anak
+- Cerai
+- Kematian
+- Kartu Suami
+- Kartu Istri";1;Tahun anggaran berjalan;2;;Musnah;
+KP 09.08;Fasilitatif ;" Laporan Kekayaan (LP2P dan LHKPN)
+";1;Tahun anggaran berjalan;2;;Musnah;
+KP 10.01;Fasilitatif ;Jabatan Fungsional Umum;1;Tahun anggaran berjalan;2;;Musnah;
+KP 10.02;Fasilitatif ;Jabatan Fungsional Tertentu;1;Tahun anggaran berjalan;2;;Musnah;
+KP 11.01;Fasilitatif ;Pemberhentian Atas Permintaan Sendiri;1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 11.02;Fasilitatif ;Pemberhentian Karena Batas Usia Pensiun;1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 11.03;Fasilitatif ;"Pemberhentian  Karena  Keuzuran/Kondisi  Jasmani  dan
+Rohani
+";1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 11.04;Fasilitatif ;Pemberhentian Karena Hilang;1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 11.05;Fasilitatif ;Pemberhentian Sementara;1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 11.06;Fasilitatif ;Pensiun Janda/Duda dan Anak;1;Tahun setelah SK ditetapkan;2;;Musnah;
+KP 12;Fasilitatif ;Berkas PNS/ASN  : Nota Penetapan NIP dan Kelengkapannya, Nota Persetujuan/Pertimbangan Kepala BKN, Hasil Pengujian Kesehatan, SK Pengangkatan CPNS, SK Pengangkatan PNS, SK Peninjauan Masa Kerja, SK Kenaikan Pangkat, SK Pengangkatan Dalam atau Pemberhentian Dari Jabatan Struktural/Fungsional, SK Perpindahan Wilayah Kerja, SK Perpindahan Antar Instansi, SK Cuti Diluar Tanggungan Negara (CLTN), SK Hukuman Jabatan/Hukuman Disiplin PNS, SK Perbantuan/Dipekerjakan di Luar Instansi Induk, SK Penarikan Kembali dari Perbantuan/Dipekerjakan, SK Pemberian Uang Tunggu, SK Pembebasan dari Jabatan Organik Karena Diangkat sebagai Pejabat Negara, SK Pengalihan PNS, SK Pemberhentian Sebagai PNS, SK Pemberhentian Sementara, SK Pengangkatan/Pemberhentian sebagai Pejabat Negara, SK Penempatan/Penarikan Pegawai, SK Pengangkatan pada Jabatan di Luar Instansi Induk, SK Pengaktifan Kembali Sebagai PNS, SK Pensiun, SK Penggantian Nama, Surat Keterangan Pernyataan Hilang, Surat Keterangan Kembalinya PNS Yang Dinyatakan Hilang, Surat Perbaikan Tanggal Tahun Kelahiran, Akta Nikah/Cerai, Akta Kelahiran, Isian Formulir Pendataan Ulang PNS (PUPNS), Berita Acara Pemeriksaan (termasuk Keputusan/Rekomendasi Majelis Kode Etik), Berita Acara Pengambilan Sumpah/Janji PNS dan Jabatan, Surat Pernyataan Melaksanakan Tugas/Menduduki Jabatan/Surat Pernyataan Pelantikan, Surat Permohonan Menjadi Anggota Parpol, Surat Keterangan Mutasi Keluarga, Surat Keterangan Meninggal Dunia, Surat Keterangan Peningkatan Pendidikan, Surat Keterangan Hasil Penelitian Khusus.;1;Tahun setelah pensiun;1;Tahun setelah hak & kewajiban habis;Musnah;" kecuali
+Pejabat Eselon I
+atau Pejabat
+lain yang
+secara individual
+ditentukan oleh
+instansi serta
+Pejabat/Pegawa
+i yang
+berjasa/terlibat
+peristiwa
+berskala
+nasional
+yang
+berjasa/terlibat peristiwa berskala
+nasional
+Permanen
+"
+KP 13;Fasilitatif ;"Berkas Perseorangan Menteri, Wakil Menteri dan
+Pejabat Negara lainnya
+";1;Tahun setelah pensiun;1;Tahun setelah hak & kewajiban habis;Permanen;
+KP 14.01;Fasilitatif ;KORPRI;;Selama masih menjadi anggota;1;;Musnah;
+KP 14.02;Fasilitatif ;Dharma Wanita;;Selama masih menjadi anggota;1;;Musnah;
+KP 14.03;Fasilitatif ;Koperasi;;Selama masih menjadi anggota;1;;Musnah;
+KU 01.01;Fasilitatif ;"Pedoman, Petunjuk, dan Administrasi Pelaksanaan
+Anggaran ; Naskah-naskah yang berkaitan dengan Pedoman, Petunjuk, dan Administrasi Pelaksanaan Anggaran seperti Langkah-langkah awal tahun, akhir tahun, capaian dan evaluasi pelaksanaan anggaran per triwulan, semester dan
+tahunan
+
+";1;Tahun setelah tahun anggaran dan tindak lanjut hasil pemeriksaan selesai;5;;Musnah;
+KU 01.02;Fasilitatif ;"Daftar Isian Pelaksanaan Anggaran (DIPA) ; Naskah-naskah yang berkaitan dengan Daftar Isian Pelaksanaan Anggaran (DIPA) seperti Surat Pengesahan, Surat  Usulan  Revisi,Surat  Persetujuan  dan  Pernyataan,
+Surat Pengantar usulan revisi
+";1;Tahun setelah tahun anggaran dan tindak lanjut hasil pemeriksaan selesai;5;;Musnah;
+KU 01.03;Fasilitatif ;"Penerimaan Negara Bukan Pajak (PNBP) ; Naskah-naskah yang berkaitan dengan kegiatan pengelolaan perbendaharaan dalam rangka PNBP, baik berupa penerimaan Non Pajak seperti Surat Usulan Target PNBP, Surat Perubahan Target, Surat Usulan Perubahan Jenis dan Tarif PNBP, Surat Laporan Realisasi PNBP, Surat Pengantar Ijin Penggunaan PNBP
+";1;Tahun setelah tahun anggaran dan tindak lanjut hasil pemeriksaan selesai;5;;Musnah;
+KU 02.01;Fasilitatif ;"Pedoman dan Petunjuk Administrasi Keuangan ; Naskah-naskah yang berkaitan dengan kegiatan Pedoman dan Petunjuk Pengelolaan Keuangan seperti Tata Cara Pengelolaan Hibah, Tata Cara Pengelolaan Rekening Pemerintah, Tata Cara Penetapan Pejabat Perbendaharaan, Fungsi dan Tugas Kuasa Pengguna Anggaran, SOP Penyelesaian Kerugian Negara, SOP Pengangkatan Kuasa Pengguna Anggaran, SOP Revisi Kuasa Pengguna Anggaran, SOP Laporan Hibah, SOP Daftar Piutang Negara, SOP Surat Keputusan Pembebanan Ganti Rugi Negara, SOP Pengajuan Surat Perintah Membayar Ganti Uang Persedian Nihil (SPM –GUP Nihil) /Tambahan Uang Persediaan Nihil (TUP Nihil), SOP Laporan Realisasi Penerimaan Negara Bukan Pajak, SOP Pelaksanaan Rekonsiliasi Data Laporan Keuangan, SOP Penyusunan dan   Penyampaian   Laporan   Keuangan   Tingkat
+Kementerian, dll.
+";1;Tahun setelah tidak berlaku;5;;Musnah;
+KU 02.02;Fasilitatif ;"Penatausahaan Hibah; Naskah-naskah yang berkaitan dengan kegiatan pengelolaan hibah seperti hibah luar negeri dan dalam negeri, rekonsiliasi hibah, tindak lanjut hasil rekonsiliasi hibah, Pembinaan dan Monitoring hibah.";2;Setelah pemeriksaan;8;;Musnah;
+KU 02.03;Fasilitatif ;"Pejabat Perbendaharaan Negara;  Naskah-naskah yang berkaitan dengan kegiatan pengelolaan perbendaharaan, seperti SK Pengangkatan KPA,  PPK,  Pejabat  Penandatangan  SPM,  Bendahara
+Penerimaan,  Bendahara  Pengeluaran,  dan  Bendahara Pengeluaran Pembantu, Pembinaan dan Monitoring
+Pejabat Perbendaharaan Negara.
+
+";2; Tahun tidak menjabat;8;;Musnah;
+KU 02.04;Fasilitatif ;"Penyelesaian Kerugian Negara; Naskah-naskah yang berkaitan dengan kegiatan Penyelesaian Kerugian Negara berupa Tuntutan Ganti Rugi seperti Piutang Negara, Tuntutan Perbendaharaan, Tuntutan Ganti Rugi, rekonsiliasi Tuntutan Ganti Rugi, rekonsiliasi Tuntutan Perbendaharaan tindak lanjut laporan  hasil  pemeriksaan  BPK/Itjen,  Pembinaan  dan
+Monitoring Penyelesaian Kerugian Negara.
+";2;Tahun setelah pelunasan;8;;Musnah;
+KU 02.05;Fasilitatif ;"Penatausahaan Rekening Pemerintah; Naskah-naskah yang berkaitan dengan kegiatan pengelolaan rekening pemerintah seperti Pembukaan dan penutupan rekening, restrukturisasi rekening, rekonsiliasi rekening, tindak lanjut hasil rekonsiliasi rekening.
+";2;Tahun setelah pelunasan;8;;Musnah;
+KU 03.01;Fasilitatif ;"Dokumen Pertanggungjawaban Belanja : Naskah-naskah yang berkaitan dengan kegiatan pertanggungjawaban belanja di lingkungan Sekretariat Jenderal seperti Surat Permintaan Pembayaran dan Surat Perintah Membayar, Kuitansi, Pengeluaran Real, SPD,
+";5;Tahun setelah tahun anggaran;5;;Musnah;
+KU 03.02;Fasilitatif ;"Buku Kas Umum dan Buku Pembantu : Naskah-naskah yang berkaitan dengan kegiatan Pencatatan penerimaan dan pengeluaran permintaan belanja dari BPP di lingkungan Kementerian Hukum danHak Asasi Manusia
+";5;Tahun setelah tahun anggaran;5;;Musnah;
+KU 03.03;Fasilitatif ;"LPJ Bendahara Pengeluaran : Naskah-naskah yang berkaitan dengan kegiatan pertanggungjawaban belanja bendahara pengeluaran dan BPP di lingkungan Kementerian Hukum dan Hak Asasi Manusia
+";5;Tahun setelah tahun anggaran;5;;Musnah;
+KU 03.04;Fasilitatif ;"LPJ Bendahara Penerimaan : Naskah-naskah yang berkaitan dengan kegiatan
+pertanggungjawaban pendapatan bendahara penerimaan 
+";5;Tahun setelah tahun anggaran;5;;Musnah;
+KU 03.05;Fasilitatif ;Penerimaan Negara Pajak;5;Tahun setelah tahun anggaran;5;;Musnah;
+KU 04.01;Fasilitatif ;"Laporan Keuangan : Naskah-naskah yang berkaitan dengan pelaporan komponen Laporan Keuangan berupa Laporan Realisasi Anggaran, Laporan Operasional, Laporan Perubahan Ekuitas, Neraca, Catatan atas Laporan Keuangan (CALK),
+dan Representasi Manajemen.
+";5;;5;;Permanen;
+KU 04.02;Fasilitatif ;"Rekonsiliasi dan Data Laporan Keuangan : Naskah-naskah yang berkaitan dengan kegiatan Rekonsiliasi (pencocokan data) komponen Laporan Keuangan secara intra (dengan pihak internal) maupun extra (dengan pihak eksternal) berupa Berita Acara Rekonsiliasi, laporan kegiatan; serta naskah-naskah yang berkaitan dengan Analisa Data; Pembinaan, Pendampingan,  Monitoring  dan  Evaluasi  Penyusunan Laporan Keuangan
+";5;;5;;Musnah;
+KU 04.03;Fasilitatif ;"Penyelesaian Tindak Lanjut Temuan Hasil Pemeriksaan
+BPK dan Inspektorat Jenderal : Naskah-naskah yang berkaitan dengan kegiatan Penyelesaian Tindak Lanjut Temuan Hasil Pemeriksaan BPK dan Inspektorat Jenderal, berupa Action Plan, surat, nota dinas, laporan kegiatan, dan dokumen pelaksanaan
+rekomendasi Temuan Hasil Pemeriksaan
+
+ ";5;;5;;Musnah;
+PB 01.01;Fasilitatif ;Usulan Rencana Kebutuhan BMN;5;;5;;Musnah;
+PB 01.02;Fasilitatif ;Rencana Kebutuhan BMN Kementerian;5;;5;;Musnah;
+PB 01.03;Fasilitatif ;Hasil Analisis Kebutuhan BMN;5;;5;;Musnah;
+PB 01.04;Fasilitatif ;Rencana Kebutuhan Aset Berwujud;2;;3;;Musnah;
+PB 01.05;Fasilitatif ;Rencana Kebutuhan Aset tak Berwujud;2;;3;;Musnah;
+PB 02.01;Fasilitatif ;"Pengelolaan Pengadaan Barang/Jasa :
+a. Pengadaan Barang Persediaan (habis pakai)
+b. Pengadaan Barang Bukan Persediaan
+c. Pengadaan Jasa Lainnya
+d. Pengadaan Jasa Konsultasi
+e. Pengadaan Teknis Aset Tetap (Tanah)
+f. Pengadaan Aset Tidak Berwujud (Software)
+g. Pengadaan Sewa
+h. Pengadaan Modal Peralatan dan Mesin
+i. Pekerjaan Konstruksi (Bangunan)";3;Tahun setelah pemeriksaan;3;;Musnah;
+PB 02.02;Fasilitatif ;"Pengelolaan layanan pengadaan secara elektronik dan data
+informasi pengadaan barang/jasa
+";3;Tahun setelah pemeriksaan;5;;Musnah;
+PB 02.03;Fasilitatif ;"Pembinaan,  Bimbingan,  Pendampingan,  dan  Konsultasi
+Teknis Pengadaan Barang/Jasa
+";3;Tahun setelah pemeriksaan;3;;Musnah;
+PB 02.04;Fasilitatif ;Tindaklanjut Hasil Pemeriksaan;3;Tahun setelah pemeriksaan;5;;Musnah;
+PB 02.05;Fasilitatif ;Laporan Pengadaan Barang/Jasa;3;Tahun setelah pemeriksaan;5;;Musnah;
+PB 02.06;Fasilitatif ;Telaahan Permasalahan Pengadaan Barang/Jasa;3;Tahun setelah pemeriksaan;5;;Musnah;
+PB 02.07;Fasilitatif ;"Unit Kerja Pengadaan Barang dan Jasa (UKPBJ)
+- Sekretariat Pusat UKPBJ
+- Sekretariat Perwakilan UKPBJ Unit Eselon I
+- Sekretariat Perwakilan UKPBJ Kantor Wilayah";2;Tahun setelah pemeriksaan;8;;Musnah;
+PB 02.08;Fasilitatif ;Pendistribusian Barang Milik Negara;3;;3;;Musnah;
+PB 03.01;Fasilitatif ;"Penggunaan Barang Milik Negara (BMN)
+a. Berkas Permohonan Status Penggunaan Barang Milik Negara atau Status Penggunaan Barang Milik Negara untuk dioperasionalkan oleh Pihak Lain
+b. SK Penetapan Status Penggunaan Barang Milik Negara atau Status Penggunaan Barang Milik Negara untuk dioperasionalkan oleh Pihak Lain
+c. Berkas Penggunaan Sementara Barang Milik Negara (permohonan, SK, dan tindak lanjut)
+d. Berkas Pengalihan Status Penggunaan Barang Milik Negara (permohonan, SK, dan tindak lanjut)
+e. Berkas Pengalihan Penggunaan Barang Milik Negara
+(permohonan, SK dan tindak lanjut)
+f. Berkas Alih Fungsi Barang Milik Negara
+(permohonan, SK dan tindak lanjut)";2;Tahu setelah SK Penetapan diperbaharui;3;;Musnah, kecuali BMN Bersejarah;
+PB 03.02;Fasilitatif ;"Pemanfaatan Barang Milik Negara : Berkas permohonan, SK dan tindak lanjut Sewa, Pinjam Pakai, Kerja Sama Pemanfaatan (KSP), Bangunan Guna Serah  (BGS),  Bangunan  Serah  Guna  (BSG),  dan  Kerja
+Sama Pemanfaatan Infrastruktur (KSPI)
+";2;Tahun setelah BMN dimanfaatkan;10;;Musnah;
+PB 03.03;Fasilitatif ;"Pengamanan dan Pemeliharaan : 
+a. Dokumen Permasalahan Barang Milik Negara
+b. Berkas Pengamanan dan Pemeliharaan (SK Tim dan Tindak Lanjut Penyelesaian Masalah)
+c. Laporan Data Tanah";;Sampai dengan diperbaharui;10;;Dinilai Kembali;
+PB 03.04;Fasilitatif ;"Rumah Negara
+a. Berkas Permohonan Penetapan Status Penggolongan Rumah Negara
+b. SK Penetapan Status Penggolongan Rumah Negara
+c. Surat Pembatalan Ijin Penghunian Rumah Negara
+d. Surat Ijin Penghunian Rumah Negara";2;Tahun setelah SK penetapan di perbaharui;5;;Musnah, kecuali Rumah Negara Bersejarah;
+PB 04.01;Fasilitatif ;Pencatataan Barang Milik Negara;2;Tahun setelah diaudit;3;;Musnah;
+PB 04.02;Fasilitatif ;Inventarisasi;2;Tahun setelah diaudit;3;;Musnah;
+PB 04.03;Fasilitatif ;Opname fisik;2;Tahun setelah diaudit;3;;Musnah;
+PB 04.04;Fasilitatif ;Rekonsiliasi data Barang Milik Negara;2;Tahun setelah diaudit;3;;Musnah;
+PB 04.05;Fasilitatif ;Pengawasan dan Pengedalian BMN;2;Tahun setelah diaudit;3;;Musnah;
+PB 04.06;Fasilitatif ;Laporan Barang Milik Negara;2;Tahun setelah diaudit;3;;Musnah;
+PB 05.01;Fasilitatif ;Penjualan;2;;3;;Permanen;
+PB 05.02;Fasilitatif ;Tukar Menukar;3;;4;;Permanen;
+PB 05.03;Fasilitatif ;Hibah;5;;5;;Permanen;
+PB 05.04;Fasilitatif ;Pemusnahan;5;;5;;Permanen;
+PB 05.05;Fasilitatif ;Penghapusan;5;;5;;Permanen;
+HH 01.01;Fasilitatif ;Media Massa (Cetak, Elektronik, Media Sosial);2;;3;;Musnah;
+HH 01.02;Fasilitatif ;Sosialisasi dan Diseminasi;2;;3;;Musnah;
+HH 01.03;Fasilitatif ;Pejabat Pengelola Informasi dan Dokumentasi (PPID);2;;3;;Musnah;
+HH 01.04;Fasilitatif ;Badan Koordinasi Hubungan Masyarakat (Bakohumas);2;;3;;Musnah;
+HH 01.05;Fasilitatif ;Peliputan;2;;3;;Musnah;
+HH 01.06;Fasilitatif ;Konferensi Pers;2;;3;;Musnah;
+HH 01.07;Fasilitatif ;Siaran Pers;2;;3;;Musnah;
+HH 02.01;Fasilitatif ;"Produk Informasi (Media Cetak, Elektronik, Media Sosial)
+a. Film, Foto
+b. Video Grafis
+c. Narasi Tunggal Media Massa Elektronik
+d. Info Grafis (Poster, Banner)
+e. Surat Penyerahan (Bingkai Foto, dll)
+f. Konten Video Revolusi Media Digital
+g. Konten Media Sosial (YouTube, Twitter, Instagram)";2;;3;;Musnah;
+HH 02.02;Fasilitatif ;Rekapitulasi Pemberitaan;2;;3;;Musnah;
+HH 03.01;Fasilitatif ;"Akuisi :
+- Pembelian
+Naskah yang berkaitan dengan pelaksanaan pembelian/pengadaan bahan pustaka mulai dari seleksi, proses pengadaan, hingga penyerahan hasil pengadaan ke bagian pengolahan bahan pustaka.
+- Hadiah
+Naskah yang berkaitan dengan pelaksanaan pemberian hadiah bahan pustaka mulai dari seleksi, proses hadiah, hingga penyerahan hasil hadiah ke bagian pengolahan bahan pustaka.
+Akuisi :
+- Hibah
+Naskah yang berkaitan dengan pelaksanaan pemberian hibah bahan pustaka mulai dari seleksi, proses hibah, hingga penyerahan hasil hibah ke bagian pengolahan bahan pustaka.
+- Tukar Menukar
+Naskah yang berkaitan dengan pelaksanaan tukar menukar bahan pustaka mulai dari seleksi, proses tukar menukar, hingga penyerahan hasil tukar menukar bahan pustaka ke bagian pengolahan bahan pustaka.
+- Pendistribusian Bahan Pustaka Surplus
+Naskah yang berkaitan dengan pendistribusian bahan pustaka surplus mulai dari seleksi, proses pendistribusian, hingga penyerahan bahan pustaka surplus ke pihak penerima.
+- Inventarisasi Bahan Pustaka (Buku Induk)
+Naskah yang berkaitan dengan pencatatan penerimaan bahan pustaka dalam buku induk.";2;;3;;Musnah;
+HH 03.02;Fasilitatif ;"Pemanfaatan Barang Milik Negara
+Berkas permohonan, SK dan tindak lanjut Sewa, Pinjam Pakai, Kerja Sama Pemanfaatan (KSP), Bangunan Guna Serah  (BGS),  Bangunan  Serah  Guna  (BSG),  dan  Kerja
+Sama Pemanfaatan Infrastruktur (KSPI)
+";2;;3;;Musnah;
+HH 03.03;Fasilitatif ;Pangkalan Data Koleksi : Naskah yang berkaitan dengan data koleksi perpustakaan;2;;3;;Musnah;
+HH 03.04;Fasilitatif ;"Layanan Perpustakaan : - Keanggotaan
+Naskah yang berkaitan dengan data keanggotaan
+perpustakaan.
+- Sirkulasi
+Naskah yang berkaitan dengan kegiatan peminjaman, pengembalian, statistik, dan laporan bahan pustaka.
+- Referensi
+Naskah yang berkaitan dengan layanan koleksi
+referensi.
+- Alih Bahasa
+Naskah yang berkaitan dengan kegiatan alih bahasa.
+- Kerja Sama Perpustakaan
+Naskah yang berkaitan dengan implementasi perjanjian
+kerja sama antar lembaga maupun keanggotaan dan partisipasi dalam organisasi profesi.
+- Pengembangan TI Perpustakaan
+Naskah yang berkaitan dengan pengembangan website perpustakaan, kemas ulang informasi dalam format multimedia, pengembangan aplikasi perpustakaan, dan
+pengembangan pangkalan data digital
+- Penyiangan Bahan Pustaka
+";2;;3;;Musnah;
+HH 03.05;Fasilitatif ;"Preservasi Bahan Pustaka
+-  Perawatan Bahan Pustaka
+Naskah yang berkaitan dengan kegiatan pelaksanaan teknis  konservasi  dalam  perawatan  dan  pengawetan
+bahan pustaka.
+-  Perbaikan Bahan Pustaka
+Naskah yang berkaitan dengan kegiatan pelaksanaan
+teknis konservasi dalam perbaikan bahan pustaka.
+-  Penjilidan
+Naskah yang berkaitan dengan kegiatan pelaksanaan
+teknis konservasi dalam penjilidan bahan pustaka.
+-  Reproduksi Foto
+Naskah yang berkaitan dengan kegiatan reproduksi foto ke dalam bentuk digital serta pemeliharaan dan penyimpanannya.
+";2;;3;;Musnah;
+HH 03.06;Fasilitatif ;"Pengembangan Perpustakaan
+- Standar Nasional Perpustakaan 
+Naskah  yang  berkaitan  dengan  penyusunan  standar
+nasional perpustakaan khusus.
+- Pedoman Perpustakaan
+Naskah yang berkaitan dengan penyusunan pedoman
+perpustakaan khusus.
+- Akreditasi Perpustakaan
+Naskah yang berkaitan dengan kelengkapan permintaan
+atau pemberian akreditasi perpustakaan.
+- Pengkajian Perpustakaan
+Naskah yang berkaitan dengan kegiatan pengkajian perpustakaan, mulai dari rapat persiapan, studi referensi, penyusunan instrumen penelitian, pengumpulan data/survei, analisis data, pembahasan hasil   survei,   penyusunan   draft   awal,   ekspose,
+penyusunan draft akhir, hingga pencetakan hasil kajian.
+- Promosi Perpustakaan (publikasi, pameran, dsb)
+Naskah yang berkaitan dengan promosi perpustakaan.
+
+";2;;3;;Musnah;
+HH 03.07;Fasilitatif ;"Pendidikan dan Pelatihan Perpustakaan : 
+Naskah yang berkaitan dengan analisa/perencanaan kebutuhan penyelenggaraan diklat  serta kerja sama
+dengan instansi lain.
+";2;;3;;Musnah;
+HH 03.08;Fasilitatif ;"Tenaga Perpustakaan
+- Sertifikasi Tenaga Perpustakaan
+Naskah yang berkaitan dengan pelaksanaan sertifikasi
+kompetensi pustakawan.
+- Pembinaan Tenaga Perpustakaan
+Naskah yang berkaitan dengan kegiatan bimbingan teknis tenaga perpustakaan, bimbingan teknis tim penilai   pustakawan,   dan   pengembangan   profesi
+pustakawan (seminar, workshop, dsb).
+- Penilaian Jabatan Fungsional Pustakawan
+Naskah yang berkaitan dengan kegiatan penilaian pustakawan.
+";2;;3;;;
+HH 04.01;Fasilitatif ;"Lembaga Tinggi Negara (dalam negeri dan luar negeri) : 
+Naskah/dokumen yang substansinya berkaitan dengan Lembaga Tinggi Negara, baik dalam negeri, maupun luar
+negeri, seperti DPR/MPR, MA, BPK
+";;Selama Berlaku;3;;Musnah;
+HH 04.02;Fasilitatif ;"Lembaga Pemerintah (dalam negeri dan luar negeri) : 
+Naskah/dokumen yang substansinya berkaitan dengan Lembaga Pemerintah, baik dalam negeri, seperti Kementerian/Lembaga, maupun perwakilan pemerintah negara sahabat (bilateral, regional, dan multilateral), dan
+Organisasi Internasional.
+";;Selama Berlaku;3;;Musnah;
+HH 04.03;Fasilitatif ;"Organisasi Kemasyarakatan/Lembaga Swasta (dalam
+negeri dan luar negeri) : 
+Naskah/dokumen  yang  substansinya  berkaitan  dengan
+organisasi kemasyarakatan/lembaga swasta, baik dalam negeri, maupun Organisasi Internasional Non Pemerintah.
+";;Selama Berlaku;3;;Musnah;
+HH 04.04;Fasilitatif ;"Perguruan Tinggi/Sekolah (dalam negeri dan luar negeri)
+Naskah/dokumen yang substansinya berkaitan kerja
+sama/berhubungan dengan Perguruan Tinggi/Sekolah
+";;Selama Berlaku;3;;Musnah;
+HH 04.05;Fasilitatif ;"Penyusunan Dokumen Kerja Sama (dalam negeri dan luar
+negeri) : 
+Naskah/dokumen yang substansinya berkaitan proses penyusunan suatu perjanjian kerja sama, mulai dari penjajakan, perundingan, perumusan, hingga
+penandatanganan.
+- Pembahasan Naskah Kerja Sama (dalam negeri dan luar
+negeri)
+Naskah/dokumen yang substansinya berkaitan proses
+penyusunan kerja sama.
+- Produk kerja sama (dalam negeri dan luar negeri)
+Naskah/dokumen berupa produk hukum perjanjian
+kerja sama yang dihasilkan melalui proses penyusunan.
+";;Selama Berlaku;3;;Musnah;
+HH 04.06;Fasilitatif ;"Permintaan  dan  Pengelolaan  Data  Kerja  Sama  (dalam negeri dan luar negeri)
+Naskah/dokumen yang substansinya berkaitan dengan permintaan dan pengelolaan data kerja sama, baik dalam
+negeri maupun luar negeri.
+";;Selama Berlaku;3;;Musnah;
+HH 04.07;Fasilitatif ;"Audiensi/Kunjungan (Kementerian/Lembaga,  Organisasi Kemasyarakatan/Lembaga Swasta, Organisasi
+Internasional/Organisasi Internasional Non Pemerintah) : 
+Naskah/dokumen yang substansinya berkaitan fasilitasi audiensi/kunjungan dari dan/kepada Kementerian/ Lembaga, Organisasi Kemasyarakatan/Lembaga Swasta, Organisasi  Internasional/Organisasi  Internasional  Non
+Pemerintah.
+";;Selama Berlaku;3;;Musnah;
+HH 04.08;Fasilitatif ;"Pemantauan dan Evaluasi :
+Naskah/dokumen yang substansinya berkaitan kegiatan
+pemantuan dan evaluasi atas pelaksanaan kerja sama, baik dalam negeri, maupun luar negeri.
+";;Selama Berlaku;3;;Musnah;
+HH 04.09;Fasilitatif ;"Administrasi Kerja Sama : 
+- Pajak, Hibah, Izin Tenaga Asing
+Naskah/dokumen yang memuat tentang permohonan izin tenaga asing, fasilitasi perpajakan dalam kerangka kerja sama teknik, serta pengelolaan data hibah sebagai
+pertanggungjawaban dari suatu perjanjian kerja sama.
+";;Selama Berlaku;3;;Permanen;
+HH 05.01;Fasilitatif ;"Advokasi Hukum Litigasi :
+Naskah-naskah terkait administrasi persidangan (Surat Dinas, Nota Dinas) serta dokumen/naskah yang dibuat dalam rangka proses beracara (Relaas Panggilan, Gugatan, Eksepsi  dan  Jawaban,  Replik,  Duplik,  Daftar  Bukti,
+Kesimpulan, dll)
+";2;;3;;Musnah;
+HH 05.02;Fasilitatif ;"Advokasi Hukum Non Litigasi : Naskah/Dokumen yang memuat tentang administrasi
+perkara-perkara Non Litigasi (Surat Dinas, Nota Dinas)
+";2;;3;;Musnah;
+HH 05.03;Fasilitatif ;"Pengaduan Hukum : Naskah/Dokumen yang memuat tentang tanggapan/respon terhadap Pengaduan Hukum (Nota Dinas, Surat
+Dinas)
+";2;;3;;Musnah;
+HH 05.04;Fasilitatif ;"Bantuan Hukum : Naskah/Dokumen yang memuat tentang surat jawaban terhadap permohonan bantuan hukum yang diajukan
+(Nota Dinas, Surat Dinas)
+";2;;3;;Musnah;
+HH 05.05;Fasilitatif ;"Layanan Aspirasi Dan Pengaduan Online Rakyat (LAPOR) :
+Naskah/Dokumen yang memuat tentang Layanan Aspirasi dan Pengaduan Online Rakyat (LAPOR) (Nota Dinas, Surat
+Dinas)
+";2;;3;;Musnah;
+HH 05.06;Fasilitatif ;"Sistem Informasi Pelayanan Publik (SIPP) : Naskah/ Dokumen yang memuat tentang Sistem Informasi
+Pelayanan Publik (Nota Dinas, Surat Dinas)
+";2;;3;;Musnah;
+UM 01.01;Fasilitatif ;"Persuratan : Naskah-naskah yang berkaitan dengan kegiatan pengurusan/pengelolaan surat masuk dan surat keluar, seperti kegiatan penomoran surat, pengarahan, pencatatan,  dan  pendistribusian  surat,  penggunaan
+cap/stempel dan pengiriman surat/barang cetakan.
+";2;;3;;Musnah;
+UM 01.02;Fasilitatif ;"Ucapan Terima Kasih/Ucapan Selamat : Naskah-naskah yang berkaitan dengan kegiatan pemberian ucapan Terima Kasih/Ucapan selamat di lingkungan Internal dan Eksternal Kementerian Hukum
+dan HAM
+";1;;1;;Musnah;
+UM 02.01;Fasilitatif ;"Pemindahan Arsip
+- Berita Acara Pemindahan
+- Daftar Arsip Yang Dipindahkan
+";;Selama berlaku;2;;Musnah;
+UM 02.02;Fasilitatif ;"Pemusnahan Arsip
+- SK Tim Pemusnahan
+- Berita Acara Pemusnahan - Daftar Arsip Yang Dimusnahkan
+- Rekomendasi/Pertimbangan
+- Surat Keputusan Pemusnahan
+ ";2;;3;;Permanen;
+UM 02.03;Fasilitatif ;"Penyerahan
+- SK Tim Penyerahan
+- Berita Acara Penyerahan
+- Daftar Arsip Yang Diserahkan
+";2;;3;;Permanen;
+UM 03.01;Fasilitatif ;"Penggunaan Ruang dan Peralatan Kantor : 
+Naskah-naskah yang berkaitan dengan peminjaman dan
+penggunaan ruang dan peralatan kantor
+";2;;3;;Musnah;
+UM 03.02;Fasilitatif ;"Penggunaan dan Penghunian Rumah Negara serta Wisma
+Pengayoman : 
+Naskah-naskah yang berkaitan dengan peminjaman,
+penggunaan, dan penghunian rumah negara serta Wisma Pengayoman
+";2;;3;;Musnah;
+UM 03.03;Fasilitatif ;"Penggunaan dan Pemeliharaan Kendaraan Dinas : 
+Naskah-naskah yang berkaitan dengan peminjaman,
+penggunaan, dan pemeliharaan kendaraan dinas
+";2;;3;;Musnah;
+UM 03.04;Fasilitatif ;"Penggunaan dan Pemeliharaan Barang Elektronik serta
+Mesin : 
+Naskah-naskah yang berkaitan dengan peminjaman,
+penggunaan, dan pemeliharaan barang elektronik serta mesin
+";2;;3;;Musnah;
+UM 03.05;Fasilitatif ;"Pemeliharaan Gedung dan Bangunan serta Area Kantor :
+Naskah-naskah yang berkaitan dengan penggunaan
+gedung dan bangunan serta area kantor
+";2;;3;;Musnah;
+UM 03.06;Fasilitatif ;"Pemeliharaan Alat Kesehatan : 
+Naskah-naskah yang berkaitan dengan pemeliharaan alat
+kesehatan
+";2;;3;;Musnah;
+UM 03.07;Fasilitatif ;"Perjalanan Dinas (Dalam Negeri/Luar Negeri) : 
+Naskah-naskah yang berkaitan dengan usulan perjalanan
+dinas
+";2;;3;;Musnah;
+UM 03.08;Fasilitatif ;"Penghematan Energi dan air : Naskah-naskah yang berkaitan dengan penghematan
+energi dan air
+";2;;3;;Musnah;
+UM 04.01;Fasilitatif ;"Penyelenggaraan Upacara : Naskah-naskah yang berkaitan dengan kegiatan
+penyelanggaran kegiatan Upacara Nasional
+";1;;3;;Musnah;
+UM 04.02;Fasilitatif ;"Pelayanan Tamu, Acara Kedinasan, Jamuan, dan Ramah
+Tamah : Naskah-naskah yang berkaitan dengan kegiatan pelayanan
+tamu, acara kedinasan, jamuan, dan ramah tamah
+
+ ";1;;3;;Musnah;
+UM 04.03;Fasilitatif ;"Daftar Nama Pejabat dan Alamat : Naskah-naskah yang berkaitan dengan penyampaian
+informasi terkait dengan daftar nama pejabat dan alamat
+";;Selama berlaku;3;;Musnah;
+UM 05.01;Fasilitatif ;"Pengamanan Personil (VVIP/VIP) : Naskah-naskah yang berkaitan dengan pengamanan
+personil VVIP/VIP
+";2;;3;;Musnah;
+UM 05.02;Fasilitatif ;"Pengamanan Lingkungan, Fisik dan Instalasi : Naskah-naskah yang berkaitan dengan pengamanan
+lingkungan, fisik, dan instalasi
+";2;;3;;Musnah;
+UM 05.03;Fasilitatif ;"Pengamanan Dokumen dan Informasi Rahasia : Naskah-naskah yang berkaitan dengan pengamanan
+dokumen dan informasi rahasia
+";2;;3;;Musnah;
+UM 05.04;Fasilitatif ;"Laporan Keamanan : Naskah-naskah yang berkaitan dengan laporan
+pengamanan di lingkungan unit kerja
+";2;;3;;Musnah;
+UM 05.05;Fasilitatif ;"Laporan Kejadian :  Naskah-naskah yang berkaitan dengan laporan kejadian di
+lingkungan unit kerja
+";2;;3;;Musnah;
+UM 05.06;Fasilitatif ;Bantuan Pengamanan : Naskah-naskah yang berkaitan dengan permintaan dan bantuan pengamanan;2;;3;;Musnah;
+UM 06.01;Fasilitatif ;"Layanan Keagamaan dan Sosial :Naskah-naskah yang berkaitan dengan kegiatan permintaan rohaniawan, undangan kegiatan ceramah keagamaan, permohonan narasumber ceramah keagamaan, himbauan Zakat, himbauan Qurban, undangan Shalat Idul Fitri dan Idul Adha serta kegiatan
+keagamaan lainnya.
+";1;;1;;Musnah;
+UM 06.02;Fasilitatif ;"Layanan Kesehatan Jasmani : Naskah-naskah yang berkaitan dengan kegiatan kesehatan jasmani seperti pelaksanaan senam pagi, permintaan
+instruktur senam pagi, SK Intrukstur Senam.
+";1;;1;;Musnah;
+UM 06.03;Fasilitatif ;"Pelayanan Kesehatan : Naskah-naskah yang berkaitan dengan kegiatan layanan
+medis poli gigi, poli umum, dan poli mata.
+";1;;1;;Musnah;
+PW 01.01;Fasilitatif ;Kebijakan Pengawasan;1;Tahun setelah tahun anggaran berakhir;4;;Permanen;
+PW 01.02;Fasilitatif ;Perjanjian Kinerja;1;Tahun setelah tahun anggaran berakhir;4;;Musnah;
+PW 01.03;Fasilitatif ;Program Kerja Pengawasan Tahunan (PKPT);1;Tahun setelah tahun anggaran berakhir;4;;Musnah;
+PW 01.04;Fasilitatif ;Program Kerja Administrasi Umum (PKAU);1;Tahun setelah tahun anggaran berakhir;4;;Musnah;
+PW 01.05;Fasilitatif ;Rapat Koordinasi Pengawasan (RAKORWAS);1;Tahun setelah tahun anggaran berakhir;4;;Musnah;
+PW 01.06;Fasilitatif ;Ikhtisar Hasil Pengawasan;1;Tahun setelah tahun anggaran berakhir;4;;Musnah;
+PW 02.01;Fasilitatif ;Audit Kinerja & Informasi, Reviu dan Evaluasi;1;Tahun setelah tahun anggaran berakhir;2;;Musnah;
+PW 02.02;Fasilitatif ;Audit Tujuan Tertentu/Khusus;1;Tahun setelah tahun anggaran berakhir;4;;Musnah;kecuali berskala nasional permanen
+PW 02.03;Fasilitatif ;"Pemantauan/Monitoring
+- Badan Pemeriksa Keuangan Republik Indonesia (BPK RI)
+- Badan Pengawasan Keuangan dan Pembangunan
+Republik Indonesia (BPKP RI)
+- Ombudsman Republik Indonesia (ORI)
+- Inspektorat Jenderal
+";1;Tahun setelah tahun anggaran berakhir;4;;Musnah;kecuali berskala nasional permanen
+PW 02.04;Fasilitatif ;"Pengawasan lainnya, Pendampingan, Sosialisasi, RDK, PKS
+dll
+";1;Tahun setelah tahun anggaran berakhir;1;;Musnah;
+PW 03.01;Fasilitatif ;"Laporan Hasil Audit Kinerja (LHA/LHP), Informasi Data
+Pendukung Pemeriksaan
+- Dalam Negeri
+- Luar Negeri
+";2;Tahun setelah selesai tindak lanjut dan hasil pemeriksaan telah selesai;3;;Musnah;kecuali berskala nasional permanen
+PW 03.02;Fasilitatif ;Laporan Hasil Audit Tujuan Tertentu (Audit Khusus);2;"Tahun setelah
+selesai tindak
+lanjut dan hasil
+pemeriksaan
+telah selesai";3;;Musnah;kecuali berskala nasional permanen
+PW 03.03;Fasilitatif ;"Pemantauan/Monitoring Badan Pemeriksan Keuangan (BPK RI), Badan Pengawasan Keuangan dan Pembangunan Republik  Indonesia  (BPKP  RI),Ombudsman  Republik
+Indonesia (ORI), Inspektorat Jenderal
+";2;"Tahun setelah
+selesai tindak
+lanjut dan hasil
+pemeriksaan
+telah selesai";3;;Musnah;kecuali berskala nasional permanen
+PW 03.04;Fasilitatif ;"Pengawasan lainnya, Pendampingan, Sosialisasi, RDK, PKS
+dll
+";1;Tahun setelah tahun anggaran berakhir;1;;Musnah;
+PW 03.05;Fasilitatif ;"Ombudsman Republik Indonesia (ORI) (Dikonsultasikan
+terlebih dahulu)
+";;;;;;
+PW 03.06;Fasilitatif ;Inspektorat Jenderal;"
+2 
+";"Tahun setelah
+selesai tindak
+lanjut dan hasil
+pemeriksaan
+telah selesai";3;;Musnah;kecuali berskala nasional permanen
+PW 04.01;Fasilitatif ;Laporan Tindak Lanjut Hasil Audit Kinerja;1;Tahun setelah anggaran berakhir;4;;Musnah;kecuali berskala nasional permanen
+PW 04.02;Fasilitatif ;Laporan Tindak Lanjut Hasil Audit Khusus;1;;4;;Musnah;kecuali berskala nasional permanen
+PW 04.03;Fasilitatif ;"Tindak Lanjut Badan Pengawasan Keuangan dan Pembangunan  Republik  Indonesia  (BPKP  RI),  BPK  RI,
+ITJEN
+";2;Tahun setelah selesai tindak lanjut dan hasil pemeriksaan telah selesai;3;;Musnah;
+PW 05.01;Fasilitatif ;Reviu;2;Tahun anggaran berjalan;3;;Musnah;
+PW 05.02;Fasilitatif ;Tindak Lanjut Reviu;2;Tahun anggaran berjalan;3;;Musnah;
+PW 06.01;Fasilitatif ;Whistle Blowing System (WBS);1;Tahun setelah ditindaklanjuti;1;;Musnah;
+PW 06.02;Fasilitatif ;Gratifikasi;1;Tahun setelah ditindaklanjuti;1;;Musnah;
+PW 06.03;Fasilitatif ;"Pengaduan Tertulis
+- SMS Gateway
+- PO BOX 3489
+- Email ITJEN
+";1;Tahun setelah ditindaklanjuti;1;;Musnah;
+PW 06.05;Fasilitatif ;Pengaduan melalui aplikasi LAPOR (Layanan Pengaduan Secara Online Rakyat);1;Tahun setelah ditindaklanjuti;1;;Musnah;
+PW 06.06;Fasilitatif ;Pengaduan Ombusman;1;Tahun setelah ditindaklanjuti;1;;Musnah;
+PW 07.01;Fasilitatif ;"Tanggapan/Telaahan Hukuman Disiplin yang Tidak
+Ditindaklanjuti
+";2;;3;;Musnah; kecuali SK Permanen
+PW 07.02;Fasilitatif ;"Tanggapan/Telaahan Hukuman Disiplin yang
+Ditindaklanjuti
+";1;;1;;Musnah;
+PW 07.03;Fasilitatif ;Daftar nama pegawai Kementerian Hukum dan HAM yang dikenakan sanksi hukuman disiplin/kartu cela;1;Tahun setelah daftar diperbaharui;1;;Musnah;
+TI 01;Fasilitatif ;"Pengamanan Data
+- Kuesioner
+- Data Pendukung
+- Analisis
+";2;Tahun setelah kajian diperbaharui;3;;Musnah;
+TI 02;Fasilitatif ;"Pengamanan Jaringan
+- Pemeliharaan Jaringan
+- Audit Jaringan
+- Laporan Hasil Audit
+";2;Tahun setelah kajian diperbaharui;3;;Musnah;
+TI 03.01;Fasilitatif ;"Standarisasi Teknologi dan Informasi : 
+Penyusunan Regulasi Standarisasi Teknologi dan Informasi yang berkaitan dengan Peraturan Menteri, Keputusan
+Menteri dan Standar Operasional Prosedur
+";2;;3;;Musnah;
+TI 03.02;Fasilitatif ;"Implementasi Aplikasi : 
+Naskah-naskah yang berkaitan dengan Surat Perencanaan
+Komite TIK, Aplikasi Sada, Digital Signature, Sertifikat Elektronik
+";2;;3;;Musnah;
+TI 03.03;Fasilitatif ;"Implementasi  Situs Internet,  Portal  Internet  dan  Surat
+Elektronik : 
+Naskah-naskah yang berkaitan dengan Pelaksanaan Implementasi  Situs  internet,  Portal  Internet  dan  Surat
+Elektronik
+";2;;3;;Musnah;
+TI 03.04;Fasilitatif ;Uji Coba Infrastruktur;2;;3;;Musnah;
+TI 04.01;Fasilitatif ;"Kerjasama Internal : 
+- Kerjasama Pengelolaan Data Pusat Data dan Teknologi Informasi dengan unit eselon 1
+- Pengelolaan Data Center Kementerian Hukum dan HAM
+";"2 
+";"Tahun
+setelah
+kerjasama
+diperbaharui";3;;Musnah;
+TI 04.02;Fasilitatif ;"Kerjasama Eksternal : 
+- MOU dengan BSSN
+- Kerjasama dengan LPSE dan LKPP
+";"2 
+";"Tahun
+setelah
+kerjasama
+diperbaharui";3;;Permanen;
+TI 05.01;Fasilitatif ;"Penyusunan Program Perencanaan Teknologi dan
+Informasi : 
+- Perencanan server
+- Perencanaan jaringan
+";"2 
+";"Tahun
+setelah
+kerjasama
+diperbaharui";3;;Musnah;
+TI 05.02;Fasilitatif ;"Pengembangan Infrastruktur Teknologi dan Informasi : 
+- Pengembangan Data Center Kementerian Hukum dan HAM
+- Pengembangan Server
+";"2 
+";"Tahun
+setelah
+kerjasama
+diperbaharui";3;;Musnah;
+TI 05.03;Fasilitatif ;"Pengembangan Aplikasi : 
+- Pengembangan Simpeg
+- Pengembangan Website
+";"2 
+";"Tahun
+setelah
+kerjasama
+diperbaharui";3;;Musnah;
+TI 05.04;Fasilitatif ;"Pengembangan Database, Situs Internet, dan Surat
+Elektronik : Naskah-naskah  yang berkaitan  dengan Pelaksanaan Pengembangan database, situs internet,  dan surat
+elektronik
+
+";"2 
+";"Tahun
+setelah
+kerjasama
+diperbaharui";3;;Musnah;
+TI 06.01;Fasilitatif ;Pengelolaan Jaringan;"2 
+";Tahun anggaran berjalan;;;;
+TI 06.02;Fasilitatif ;Pengelolaan Jaringan Sistem Informasi;"2 
+";Tahun anggaran berjalan;;;;
+TI 06.03;Fasilitatif ;Pengelolaan Database;"2 
+";Tahun anggaran berjalan;;;;
+TI 06.04;Fasilitatif ;"Pengelolaan  Situs  Internet,  Portal  Internet,  dan  Surat
+Elektronik
+";"2 
+";Tahun anggaran berjalan;;;;
+TI 06.05;Fasilitatif ;Pengelolaan Aplikasi;"2 
+";Tahun anggaran berjalan;;;;
+TI 06.06;Fasilitatif ;Pengelolaan Alat Pendukung;"2 
+";Tahun anggaran berjalan;;;;
+TI 07.01;Fasilitatif ;"Layanan Keluhan LPSE (Layanan Pengadaan Secara
+Elektronik) : Naskah-naskah yang berkaitan dengan keluhan LPSE
+";1;;1;;Musnah;
+TI 07.02;Fasilitatif ;Tindak Lanjut Keluhan;1;;1;;Musnah;
+TI 07.03;Fasilitatif ;"Monitoring/Pemantauan Layanan Keluhan : - Keluhan tentang semua bidang
+- Komputer rusak
+- Printer rusak
+- Wifi tidak aktif
+";1;;1;;Musnah;
+TI 07.04;Fasilitatif ;Evaluasi : - Hasil evaluasi TI;1;;1;;Musnah;
+PP 01.01;Substantif;"Perencanaan dan Penyiapan Konsepsi Rancangan Peraturan
+Perundang-undangan
+";2;Tahun setelah diundangkan;3;;Permanen;
+PP 01.02;Substantif;"Penyusunan Rancangan Undang-Undang, Rancangan Peraturan Pemerintah Pengganti Undang-Undang, dan
+Rancangan Peraturan Pemerintah
+";2;;3;;Permanen;
+PP 01.03;Substantif;"Penyusunan Rancangan Peraturan Presiden dan Rancangan
+Peraturan Menteri Hukum dan Hak Asasi Manusia
+";2;;3;;Permanen;
+PP 01.04;Substantif;Pembahasan Rancangan Undang-Undang;2;;3;;Permanen;
+PP 01.05;Substantif;Pengharmonisasian Rancangan Peraturan Menteri/Lembaga;;;;;;
+PP 02.01;Substantif;Harmonisasi Bidang Politik dan Pemerintahan;2;Tahun setelah diundangkan;3;;Musnah;
+PP 02.02;Substantif;Harmonisasi Bidang Pertahanan dan Keamanan;2;Tahun setelah diundangkan;3;;Musnah;
+PP 02.03;Substantif;Harmonisasi Bidang Hukum dan Hak Asasi Manusia (HAM);2;Tahun setelah diundangkan;3;;Musnah;
+PP 02.04;Substantif;"Harmonisasi Bidang Sumber Daya Manusia (SDM),
+Kelembagaan dan Kesejahteraan Rakyat
+";2;Tahun setelah diundangkan;3;;Musnah;
+PP 03.01;Substantif;"Harmonisasi Bidang Moneter, Jasa Keuangan, Badan Usaha
+Milik Negara (BUMN) dan Penanaman Modal
+";2;Tahun setelah diundangkan;3;;Musnah;
+PP 03.02;Substantif;"Harmonisasi  Bidang  Perencanaan  Pembangunan  Nasional
+dan Fiskal
+";2;Tahun setelah diundangkan;3;;Musnah;
+PP 03.03;Substantif;"Harmonisasi Bidang Sumber Daya Alam (SDA), Lingkungan
+hidup, Kehutanan, Prasarana, Agraria dan Tata Ruang
+";2;Tahun setelah diundangkan;3;;Musnah;
+PP 03.04;Substantif;"Harmonisasi Bidang Perindustrian, Perdagangan, Riset dan
+Teknologi
+";2;Tahun setelah diundangkan;3;;Musnah;
+PP 04.01;Substantif;Perencanaan, Penyusunan Kebijakan Teknis dan Akreditasi;2;Tahun setelah diundangkan;3;;Musnah;
+PP 04.02;Substantif;Fasilitasi Perancangan Peraturan Daerah;2;Tahun setelah diundangkan;3;;Musnah;
+PP 04.03;Substantif;"Standardisasi dan Bimbingan Perancang Peraturan
+Perundang-undangan
+";2;;3;;Musnah;
+PP 04.04;Substantif;"Sistem Informasi, Manajemen dan Penilaian Angka Kredit
+Perancang Peraturan Perundang-undangan
+";2;;3;;Musnah;
+PP 05.01;Substantif;Pengundangan Peraturan Perundang-undangan;2;Tahun setelah diundangkan;3;;Permanen ;
+PP 05.02;Substantif;Penerjemahan Peraturan Perundang-undangan;2;Tahun setelah diundangkan;3;;Musnah;kecuali master permanen
+PP 05.03;Substantif;Sistem Informasi Peraturan Perundang-undangan;1;Tahun setelah diundangkan;2;;Musnah;
+PP 05.04;Substantif;Publikasi, Dokumentasi, dan Perpustakaan;;;;;;
+PP 06.01;Substantif;"Penyiapan dan Pendampingan Persidangan Bidang Politik,
+Hukum, Hak Asasi Manusia dan Keamanan
+";2;;3;;Dinilai Kembali;
+PP 06.02;Substantif;"Penyiapan dan Pendampingan Persidangan Bidang
+Kesejahteraan Rakyat
+";2;;3;;Dinilai Kembali;
+PP 06.03;Substantif;"Penyiapan dan Pendampingan Persidangan Bidang
+Perekonomian
+";2;;3;;Dinilai Kembali;
+AH 01.01;Substantif;Pendaftaran Pendirian Perseroan Terbatas;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.02;Substantif;Pendaftaran Persetujuan Perubahan Anggaran Dasar;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.03;Substantif;"Pendaftaran Pemberitahuan Anggaran Dasar dan Perubahan
+Data Persero
+";2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.04;Substantif;Pendirian Yayasan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.05;Substantif;Persetujuan Perubahan Anggaran Dasar Yayasan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.06;Substantif;Pemberitahuan Anggaran Dasar dan Perubahan Data;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.07;Substantif;Pendirian Perkumpulan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.08;Substantif;Persetujuan Perubahan Anggaran Dasar Perkumpulan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.09;Substantif;Penggabungan, Pengambilalihan, Pemisahan PT;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.10;Substantif;Pembubaran Perseroan Terbatas;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.11;Substantif;Likuidasi / Berakhirnya Status Badan Hukum PT;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.12;Substantif;Pembubaran Yayasan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.13;Substantif;Pembubaran Perkumpulan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.14;Substantif;Pendaftaran Persekutuan Komanditer;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.15;Substantif;Pencatatan Pendaftaran Persekutuan Komanditer;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.16;Substantif;Perubahan Persekutuan Komanditer;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.17;Substantif;Pencatatan Perubahan Persekutuan Komanditer;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.18;Substantif;Pendaftaran Firma;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.19;Substantif;Pencatatan Pendaftaran Firma;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.20;Substantif;Perubahan Firma;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.21;Substantif;Pencatatan Perubahan Firma;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.22;Substantif;Pendaftaran Persekutuan Perdata;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.23;Substantif;Pencatatan Pendaftaran Persekutuan Perdata;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.24;Substantif;Perubahan Persekutuan Perdata;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.25;Substantif;Pencatatan Perubahan Persekutuan Perdata;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.26;Substantif;Pembubaran Persekutuan Komanditer;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.27;Substantif;Pembubaran Firma;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.28;Substantif;Pembubaran Persekutuan Perdata;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.29;Substantif;Pengesahan Pendirian Badan Hukum Koperasi;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.30;Substantif;Pendaftaran Pendirian Perseroan Perorangan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.31;Substantif;Pendaftaran Perubahan Perseroan Perorangan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.32;Substantif;Pembubaran Perseroan Perorangan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.33;Substantif;Pendaftaran Pendirian BUM Desa;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.34;Substantif;Pendaftaran Perubahan BUM Desa;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.35;Substantif;Pendaftaran Pendirian BUM Desa Bersama;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.36;Substantif;Pendaftaran Perubahan BUM Desa Bersama;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.37;Substantif;Pencabutan Status Badan Hukum Perseroan Perorangan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.38;Substantif;Pengesahan Perubahan Anggaran Dasar Koperasi;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.39;Substantif;Penerimaan Pemberitahuan Perubahan Data Koperasi;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.40;Substantif;Pemberitahuan Pembubaran Koperasi;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.41;Substantif;Pencabutan/Pembatalan Status Badan Hukum PT;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.42;Substantif;Pencabutan/Pembatalan Status Badan Hukum Yayasan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.43;Substantif;Pencabutan/Pembatalan Status Badan Hukum Perkumpulan;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.44;Substantif;Pencabutan/Pembatalan Status Badan Hukum Koperasi;2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.45;Substantif;"Pencabutan/Pembatalan Status Persekutuan Komanditer,
+Persekutuan Firma, Persekutuan Perdata
+";2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.46;Substantif;"Penerimaan pemberitahuan perubahan anggaran dasar BUM
+Desa
+";2;Tahun setelah dibubarkan;5;;Permanen;
+AH 01.47;Substantif;"Penerimaan pemberitahuan perubahan anggaran dasar BUM
+Desa Bersama
+";2;Tahun setelah dibubarkan;5;;Permanen;
+AH 02.01;Substantif;Pengangkatan Notaris;2;Tahun setelah masa pensiun/setelah masa cuti berakhir;8;;Permanen;
+AH 02.02;Substantif;Perpindahan Notaris;2;Tahun setelah masa pensiun/setelah masa cuti berakhir;8;;Permanen;
+AH 02.03;Substantif;Perpanjangan Masa Jabatan Notaris;2;Tahun setelah di perpanjang;8;;Permanen;
+AH 02.04;Substantif;Pemberhentian Notaris;2;Tahun setelah masa pensiun/setelah masa cuti berakhir;8;;Permanen;
+AH 02.05;Substantif;Surat Keputusan Cuti;;Sampai dengan diperbaharui;8;;Musnah;kecuali master permanen
+AH 02.06;Substantif;Penunjukan Pemegang Protokol;;Sampai dokumen tidka di pergunakan;8;;Permanen;
+AH 02.07;Substantif;Majelis Pengawas Pusat Notaris;3;;8;;Permanen;
+AH 02.07.01;Substantif;Surat Umum;3;;8;;Permanen;
+AH 02.07.02;Substantif;Cuti Notaris;3;;8;;Permanen;
+AH 02.07.03;Substantif;Konduite Notaris;3;;8;;Permanen;
+AH 02.07.04;Substantif;Rekomendasi Notaris;3;;8;;Permanen;
+AH 02.07.05;Substantif;Putusan MPPN;3;;8;;Permanen;
+AH 02.08;Substantif;Sertifikat Ujian Pengangkatan Notaris;;;;;;
+AH 02.09;Substantif;Majelis Kehormatan Notaris Pusat;3;;8;;Permanen;
+AH 03.01;Substantif;Legalisasi Spesimen Tanda Tangan Pejabat;2;;3;;Permanen;
+AH 03.02;Substantif;Surat Keputusan Ganti Nama;2;;3;;Permanen;
+AH 03.03;Substantif;Advokat Asing;2;;3;;Musnah;
+AH 03.03.01;Substantif;"Surat Keputusan Persetujuan Mempekerjakan
+Advokat Asing
+";2;;3;;Musnah;
+AH 03.03.02;Substantif;"Surat Keputusan Persetujuan Perpanjangan
+Mempekerjakan Advokat Asing
+";2;;3;;Musnah;
+AH 03.04;Substantif;"Pendapat Hukum (Legal Opinion) yang diminta oleh
+Pemerintah
+";5;;5;;Permanen;
+AH 03.05;Substantif;"Pendapat Hukum (Legal Opinion) yang diminta oleh
+Masyarakat
+";2;;3;;Musnah;
+AH 03.06;Substantif;Formulir Permohonan Legalisir;;;;;;
+AH 03.07;Substantif;Pengangkatan Penerjemah Tersumpah;;;;;;
+AH 03.08;Substantif;Pemberhentian Penerjemah Tersumpah;;;;;;
+AH 03.09;Substantif;"Advokasi Keperdataan
+Dokumen advokasi keperdataan adalah dokumen yang terkait dengan penanganan perkara sehubungan adanya gugatan yang ditujukan kepada Menteri Hukum dan HAM RI
+cq. Direktorat Jenderal AHU cq. Direktorat Perdata
+";;;;;;
+AH 03.10;Substantif;Database;2;;3;;Musnah;
+AH 04.01;Substantif;Penerbitan Surat Keterangan Wasiat;5;;5;;Musnah;
+AH 04.02;Substantif;Pelaporan Wasiat;;;;;;
+AH 04.03;Substantif;Laporan Bulanan Wasiat;;Sampai tidak ada tuntutan dalam pembagian waris;1;;Permanen;
+AH 04.04;Substantif;Perubahan Permohonan/Perbaikan Surat Keterangan Wasiat;;;;;;
+AH 04.05;Substantif;Pendaftaran Kurator dan Pengurus;5;Tahun setelah di perpanjang;1;;Permanen;
+AH 04.06;Substantif;Perpanjangan Tanda Terdaftar Kurator dan Pengurus;;;;;;
+AH 04.07;Substantif;Perpanjangan Sementara Kurator dan Pengurus;;;;;;
+AH 04.08;Substantif;Izin Jual Boedel, Persetujuan, Penelitian dan Penelaahan;;Selama Berlaku;5;;Permanen;
+AH 04.09;Substantif;Daftar harta peninggalan/boedel of wezig;;Selama berlaku;5;;Permanen;
+AH 05.01;Substantif;Pendaftaran Sertifikat Jaminan Fidusia;2;Tahun setelah jangka waktu habis/diperbaharui;3;;Musnah;
+AH 05.02;Substantif;Perubahan Sertifikat Jaminan Fidusia;2;Tahun setelah jangka waktu habis/diperbaharui;3;;Musnah;
+AH 05.03;Substantif;Penghapusan/Pencoretan Sertifikat Jaminan Fidusia;2;Tahun setelah jangka waktu habis/diperbaharui;3;;Musnah;
+AH 06.01;Substantif;Pendaftaran Wasiat;1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.02;Substantif;Perwalian Pengawas;1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.03;Substantif;Pengampu Pengawas;1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.04;Substantif;Pengampu Anak Dalam Kandungan;1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.05;Substantif;"Pengampu Harta Peninggalan yang tidak ada kuasanya
+(Onbeheerde Nalatenschap)
+";1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.06;Substantif;Kurator Dalam Kepailitan;1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.07;Substantif;Wali Sementara;1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.08;Substantif;"Pengurus  Harta  Kekayaan  Orang  yang  Dinyatakan  Tidak
+Hadir (afwijzig)
+";1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.09;Substantif;Surat Keterangan Hak Waris;1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 06.10;Substantif;Transfer Dana;1;Tahun setelah berkekuatan tetap;1;;Permanen ;
+AH 07.01;Substantif;Pendapat Hukum tentang Pelayanan Pidana ;2;;3;;Musnah;
+AH 07.02;Substantif;Pendapat Hukum tentang Pelayanan Pidana;2;;3;;Musnah;
+AH 07.03;Substantif;Pendapat Hukum tentang Saksi Ahli;2;;3;;Musnah;
+AH 07.04;Substantif;"Kajian dan Telaah tentang Pemantauan dan Evaluasi Hukum
+Pidana
+";2;Tahun setelah diundangkan;3;;Musnah;
+AH 08.01;Substantif;"Sidik Jari : - Slip Sidik Jari
+- Hasil Rumusan Identifikasi Sidik Jari
+";2;;3;;Permanen;
+AH 08.02;Substantif;Data dan Informasi Sidik Jari;2;Tahun setelah diperbaharui;2;;Musnah;
+AH 09.01;Substantif;Seleksi Administrasi Calon PPNS;2;Tahun setelah pengangkatan;3;;Musnah;
+AH 09.02;Substantif;Pengangkatan PPNS;2;Tahun setelah pengangkatan;3;;Musnah;
+AH 09.03;Substantif;Pengangkatan Kembali PPNS;2;Tahun setelah pengangkatan;3;;Musnah;
+AH 09.04;Substantif;Pelantikan PPNS;2;Tahun setelah pelantikan;3;;Musnah;
+AH 09.05;Substantif;Mutasi PPNS;2;Tahun setelah mutasi;3;;Musnah;
+AH 09.06;Substantif;Pemberhentian Non Teknis Operasional;2;Tahun setelah pemberhentian;3;;Musnah;
+AH 09.07;Substantif;Pemberhentian Sebagai PPNS;2;Tahun setelah pemberhentian;3;;Musnah;
+AH 09.08;Substantif;Pemberhentian atas Permintaan Sendiri;2;Tahun setelah pemberhentian;3;;Musnah;
+AH 09.09;Substantif;Perpanjangan KTP;2;"Tahun setelah
+masa KTP habis berlaku
+";3;;Musnah;
+AH 09.10;Substantif;Penerbitan KTP yang Hilang/Rusak;2;"Tahun setelah
+masa KTP habis berlaku
+";3;;Musnah;
+AH 10.01;Substantif;"Kewarganegaraan : 
+- Proses Pengurusan Kewarganegaraan
+
+- Bukti Kewarganegaraan Termasuk KEPPRES dan Berita Acara Sumpah
+- Keterangan Pelepasan Kewarganegaraan
+";2;;3;;Permanen;
+AH 10.01.01;Substantif;Proses Pengurusan Kewarganegaraan;2;;3;;;
+AH 10.01.02;Substantif;"Bukti Kewarganegaraan Termasuk KEPPRES dan
+Berita Acara Sumpah
+";2;;3;;;
+AH 10.01.03;Substantif;Keterangan Pelepasan Kewarganegaraan;2;;3;;Permanen;
+AH 10.01.04;Substantif;Surat Keterangan Status Kewarganegaraan;2;;3;;Permanen;
+AH 10.01.05;Substantif;Surat Keputusan Kewarganegaraan RI Bagi Anak Berkewarganegaraan ganda;2;;3;;Permanen;
+AH 10.01.06;Substantif;Surat Keputusan Permohonan Tetap Menjadi WNI;2;;3;;Permanen;
+AH 10.01.07;Substantif;"Surat Keputusan Permohonan Memperoleh
+Kembali Kewarganegaraan RI
+";2;;3;;Permanen;
+AH 10.01.08;Substantif;"Surat Keterangan Kehilangan Warga Negara RI
+atas Kemauan Sendiri
+";2;;3;;Permanen;
+AH 10.01.09;Substantif;"Surat Pengantar Kepada Presiden RI Permohonan
+Kehilangan Kewarganegaraan RI
+";2;;3;;Permanen;
+AH 10.01.10;Substantif;"Dokumen Laporan Kehilangan Kewarganegaraan
+RI dari Kantor Perwakilan RI di Luar Negeri
+";2;;3;;Permanen;
+AH 10.01.11;Substantif;"SBKRI (Surat Bukti Kewarganegaraan Republik
+Indonesia)
+";2;;3;;Permanen;
+AH 10.02;Substantif;"Pewarganegaraan : Permohonan  Pewarganegaraan   melalui Perkawinan Berdasarkan Pasal 19 Undang-
+Undang Nomor 12 Tahun 2006 ; Permohonan Karena Jasa Terhadap Negara Indonesia Berdasarkan Pasal 20 Undang-Undang
+Nomor 12 Tahun 2006 ; Permohonan Naturalisasi Murni berdasarkan Pasal 8 Undang-Undang Nomor 12 Tahun 2006
+
+";2;;3;;Permanen;
+AH 11.01;Substantif;"Keputusan Menteri Hukum dan HAM tentang Pengesahan
+Badan Hukum Partai Politik dan salinan akta notaris
+";2;;3;;Permanen;
+AH 11.02;Substantif;"Keputusan Menteri Hukum dan HAM tentang Pengesahan
+Kepengurusan Partai Politik dan salinan akta notaris
+";2;;3;;Permanen;
+AH 11.03;Substantif;"Keputusan Menteri Hukum dan HAM tentang Pengesahan
+AD/ART Partai Politik dan salinan akta notaris
+";2;;3;;Permanen;
+AH 11.04;Substantif;"Dokumen Persyaratan Pendirian Badan Hukum Partai Politik
+kecuali salinan akta notaris
+";2;;3;;Permanen;
+AH 11.05;Substantif;"Dokumen Persyaratan Pengesahan Kepengurusan Partai
+Politik kecuali salinan akta notaris
+";2;;3;;Permanen;
+AH 11.06;Substantif;"Dokumen  Persyaratan  Pengesahan  AD/ART  Partai  Politik
+kecuali salinan akta notaris
+";2;;3;;Permanen;
+AH 11.07;Substantif;Dokumen Advokasi Partai Politik;2;;3;;Permanen;
+AH 11.08;Substantif;"Keputusan Menteri Hukum dan HAM tentang Pembubaran
+Partai Politik
+";2;;3;;Permanen;
+AH 12.01;Substantif;"Perjanjian  Bantuan  Hukum  Timbal  Balik  Dalam  Masalah
+Pidana
+";3;Tahun setelah  berkekuatan hukum tetap;;;;
+AH 12.02;Substantif;"Surat  Rekomendasi  Penanganan  Bantuan  Hukum  Timbal
+Balik Dalam Masalah Pidana
+";;;;;;
+AH 12.03;Substantif;Perjanjian Ekstradisi dan Pemindahan Narapidana;;;;;;
+AH 12.04;Substantif;"Surat Rekomendasi Penanganan Ekstradisi dan Pemindahan
+Narapidana
+";;;;;;
+AH 12.05;Substantif;Hukum Ekonomi dan Lembaga Internasional;5;;2;;Permanen;
+AH 12.06;Substantif;Hukum Perdata Internasional;5;;2;;Permanen;
+AH 12.07;Substantif;Hukum Laut, Udara, Angkasa dan Lingkungan;3;;2;;Permanen;
+AH 12.08;Substantif;Hukum Humaniter;5;;2;;Permanen;
+AH 12.09;Substantif;Produk yang diterbitkan Atase Hukum;;;;;;
+AH 13.01;Substantif;Perencanaan dan Pengembangan Teknologi Informasi;2;;3;;Musnah;
+AH 13.02;Substantif;Pembangunan Aplikasi;2;Tahun setelah ditetapkan;3;;Musnah;kecuali penetapan Permanen msunah
+AH 13.03;Substantif;Implementasi dan Perubahan Sistem Teknologi Informasi;2;Tahun setelah diperbaharui;3;;Musnah;kecuali penetapan Permanen msunah
+AH 13.04;Substantif;Layanan Sistem Teknologi Informasi;1;;4;;Musnah;
+AH 13.05;Substantif;"Pengelolaan dan Pemeliharaan Perangkat Keras dan
+Perangkat Lunak
+";3;;2;;Musnah;
+AH 13.06;Substantif;Monitoring dan Evaluasi ;1;Tahun setelah kegiatan;2;;Musnah;
+PK 01.01;Substantif;"Registrasi Tahanan : Naskah-naskah yang berkaitan dengan kegiatan : a. pemeriksaan kelengkapan dokumen serta berkas Tahanan yang diberikan oleh Kejaksaan dan Kepolisian.
+b. pencatatan penerimaan Tahanan di Rutan yang terdiri dari pembuatan surat perintah atau surat penetapan tahanan, pembuatan biodata diri, data barang bawaan Tahanan.
+c. Pemeriksaan kesehatan
+d. pembuatan pas photo
+e. pembuatan sidik jari/dokumentasi sidik jari
+f. pembuatan berita acara serah terima tahanan
+";2;;3;;Musnah;
+PK 01.02;Substantif;"Registrasi Narapidana : 
+Naskah-naskah yang berkaitan dengan kegiatan pendataan Narapidana yang baru masuk ke Lapas:
+a. pemeriksaan kelengkapan dokumen serta berkas Narapidana yang diberikan oleh Kejaksaan, Kepolisian, Pengadilan, dan Rutan.
+b. pencatatan penerimaan Narapidana di Lapas yang terdiri dari pembuatan surat perintah atau surat penetapan Narapidana, pembuatan biodata diri, data barang bawaan Narapidana
+c. pemeriksaan kesehatan
+d. pembuatan pas photo
+e. pembuatan sidik jari/dokumentasi sidik jari
+f. pembuatan berita acara serah terima Narapidana
+";2;;3;;Musnah;
+PK 01.03;Substantif;"Registrasi Anak : Naskah-naskah yang berkaitan dengan kegiatan Pendataan Anak/Anak Binaan:
+a. pemeriksaan kelengkapan dokumen serta berkas Anak/Anak Binaan
+b. pencatatan penerimaan Anak/Anak Binaan
+c. pemeriksaan kesehatan
+d. pembuatan pas photo
+e. pembuatan sidik jari/dokumentasi sidik jari
+f. pembuatan berita acara serah terima Anak/Anak Binaan
+";2;;3;;Musnah;
+PK 01.04;Substantif;"Registrasi Klien Pemasyarakatan : Naskah-naskah yang berkaitan dengan kegiatan :
+a. pemeriksaan kelengkapan dokumen serta berkas Klien Pemasyarakatan
+b. pencatatan penerimaan Klien Pemasyarakatan di Bapas
+c. pemeriksaan kesehatan
+d. pembuatan pas photo
+e. pembuatan sidik jari / dokumentasi sidik jari
+f. pembuatan berita acara serah terima Klien Pemasyarakatan
+";2;;3;;Musnah;
+PK 01.05;Substantif;"Registrasi Titipan : Naskah-naskah yang berkaitan dengan kegiatan :
+a. pemeriksaan kelengkapan dokumen serta berkas Titipan
+b. pencatatan penerimaan Registrasi
+c. Pemeriksaan kesehatan.
+d. pembuatan pas photo
+e. pembuatan sidik jari/dokumentasi sidik jari.
+f. pembuatan berita acara serah terima titipan
+";2;;3;;Musnah;
+PK 01.06;Substantif;"Admisi Orientasi: Naskah-naskah yang berkaitan dengan Admisi Orientasi bagiTahanan, Narapidana, dan Anak/Anak Binaan
+";1;;1;;Musnah;
+PK 02.01;Substantif;"Tahanan : Naskah-naskah yang berkaitan dengan kegiatan pelaksanaan assessment dan Klasifikasi terhadap Narapidana dan Anak.
+";1;;1;;Musnah;
+PK 02.02;Substantif;"Narapidana dan Anak : Naskah-naskah yang berkaitan dengan kegiatan pelaksanaan assessment dan Klasifikasi terhadap Narapidana dan Anak.
+";1;;1;;Musnah;
+PK 02.03;Substantif;"Anak : Naskah-naskah yang berkaitan dengan kegiatan pelaksanaan assessment dan klasifikasi terhadap Anak dan
+Anak Binaan
+";1;;1;;Musnah;
+PK 02.04;Substantif;"Klien : Naskah-naskah yang berkaitan dengan kegiatan
+pelaksanaan assessment dan Klasifikasi terhadap Klien bapas
+";1;;1;;Musnah;
+PK 03.01;Substantif;"Tahanan :Naskah-naskah yang berkaitan dengan data Statistik
+Tahanan
+";;Selama masih dipergunakan ;1;;Musnah;kecuali tokoh nasional permanen
+PK 03.02;Substantif;"Narapidana : Naskah-naskah yang berkaitan dengan data Statistik
+Narapidana
+";;Selama masih dipergunakan ;3;;Musnah;kecuali tokoh nasional permanen
+PK 03.03;Substantif;Anak : Naskah-naskah yang berkaitan dengan data Statistik Anak dan Anak Binaan;;Selama masih dipergunakan ;1;;Permanen;
+PK 03.04;Substantif;"Klien Pemasyarakatan : Naskah-naskah yang berkaitan dengan data Statistik Klien Pemasyarakatan
+";;Selama masih dipergunakan ;1;;Permanen;
+PK 03.05;Substantif;"Titipan : Naskah-naskah yang berkaitan dengan data Statistik WBP yang dititipkan di UPT lain dalam rangka untuk pembinaan
+atau perawatan
+";;Selama masih dipergunakan ;1;;Permanen;
+PK 03.06;Substantif;" Benda Sitaan/Barang Rampasan : Naskah-naskah yang berkaitan dengan  data Statistik Benda Sitaan/Barang Rampasan
+";;Selama masih dipergunakan ;1;;Permanen;
+PK 04.01;Substantif;"Penelitian Kemasyarakatan (LITMAS) : Naskah-naskah yang berkaitan dengan kegiatan Pembuatan Penelitian Kemasyarakatan (Litmas) untuk warga binaan yang akan bebas bersyarat, cuti menjelang bebas, cuti mengunjungi keluarga, asimilasi, dan pembinaan dalam/mutasi;  serta  untuk  pendampingan  anak  yang
+berhadapan dengan hukum.
+";1;;1;;Musnah;
+PK 04.02;Substantif;"Pidana Bersyarat (PiB) : Naskah-naskah yang berkaitan dengan pelaksanaan Pidana Bersyarat
+";1;;1;;Musnah;
+PK 04.03;Substantif;"Diversi : Naskah-naskah yang berkaitan dengan kegiatan pelaksanaan diversi (pengalihan penyelesaian perkara Anak dari proses peradilan pidana ke proses di luar peradilan pidana) yang dilaksanakan oleh Pembimbing Kemasyarakatan pada setiap
+tingkat pemeriksaan (Penyidikan, Penuntutan dan Peradilan)
+";1;;1;;Musnah;
+PK 04.04;Substantif;"Pembimbingan : Naskah-naskah yang berkaitan dengan kegiatan Bimbingan Kepribadian Klien, Bimbingan Kemandirian, Bimbingan Klien/Home  Visit,  Bimbingan  Penyuluhan/Konseling,  dan
+Keluarga Asuh/Anak Asuh
+";1;;1;;Musnah;
+PK 04.05;Substantif;"Pembimbingan Lanjutan : Naskah-naskah yang berkaitan dengan kegiatan Bimbingan Lanjutan
+";1;;1;;Musnah;
+PK 05.01;Substantif;"Pembinaan  Kepribadian  dan  Pendidikan  Narapidana  dan
+Anak : Naskah-naskah yang berkaitan dengan kegiatan pembinaan kepribadian narapidana dan anak seperti Keagamaan, Pendidikan Umum/ Kejuruan, Pendidikan Tinggi, Kepramukaan, Kesenian, Olahraga, Program Deradikalisasi
+Napiter, dan Program NKRI Napiter.
+
+";1;;1;;Musnah;
+PK 05.02;Substantif;"Bimbingan Kepribadian dan Keterampilan Tahanan : Naskah-naskah yang berkaitan dengan kegiatan bimbingan kepribadian dan keterampilan Tahanan.
+";1;;1;;Musnah;
+PK 05.03;Substantif;"Pelatihan Keterampilan Narapidana dan Anak : Naskah-naskah yang berkaitan dengan kegiatan pelatihan keterampilan bersertifikat (agribisnis, manufaktur, dan jasa), pendidikan vokasi bidang agribisnis, manufaktur, dan jasa, kerja sama dengan mitra terkait latihan keterampilan  di
+Lapas/LPKA untuk Narapidana dan Anak.
+";1;;1;;Musnah;
+PK 05.04;Substantif;"Remisi : Naskah-naskah yang berkaitan dengan kegiatan
+pengurangan masa pidana yang diberikan kepada
+Narapidana dan Anak yang berkonflik dengan hukum.";1;;1;;Musnah;
+PK 05.05;Substantif;"Pemindahan/Mutasi WBP : Naskah-naskah yang berkaitan dengan kegiatan pemindahan WBP untuk kepentingan pembinaan, keamanan dan ketertiban, dan lainnya yang dianggap perlu
+";1;;1;;Musnah;
+PK 05.06;Substantif;"Peminjaman/Bon Tahanan, Narapidana dan Anak : Naskah-naskah yang berkaitan dengan kegiatan peminjaman tahanan, narapidana dan anak untuk kepentingan penyidikan, pemindahan sementara untuk kepentingan berobat, menghadiri sidang PK dan lainnya yang dianggap perlu dan sifatnya sementara
+";1;;1;;Musnah;
+PK 05.07;Substantif;"Ijin Keluar Lapas : Naskah-naskah yang berkaitan dengan kegiatan keluar lapas izin berobat, izin luar biasa, dan izin dalam rangka
+pembinaan.
+";1;;1;;Musnah;
+PK 05.08;Substantif;"Kegiatan Kerja dan Tenaga Kerja : Naskah-naskah yang berkaitan dengan kegiatan kerja dan produksi di UPT Penasyarakatan dan PNBP
+- Pengembangan Kewirausahaan (Keterampilan/Minat Bakat)
+- Tenaga Kerja Napi
+- Kerja sama/Kemitraan
+- Upah/Premi
+";1;;1;;Musnah;
+PK 05.09;Substantif;"Integrasi Narapidana dan Anak : Naskah-naskah yang berkaitan dengan kegiatan
+- Pemberian Pembebasan Bersyarat (PB), Cuti Menjelang Bebas (CMB), Cuti Bersyarat (CB), Cuti Mengunjungi Keluarga (CMK) dan Asimilasi Pidana Umum dan Pidana Khusus
+ 
+- Surat Keputusan Pemberian Pembebasan Bersyarat (PB), Cuti Menjelang Bebas (CMB), Cuti Bersyarat (CB), Cuti Mengunjungi Keluarga (CMK) dan Asimilasi Pidana Umum dan Pidana Khusus
+";1;;1;;Musnah;
+PK 05.10;Substantif;"Sidang Tim Pengamat Pemasyarakatan : Naskah-naskah yang berkaitan dengan kegiatan sidang tim pengamat pemasyarakatan
+";1;;1;;Musnah;
+PK 05.11;Substantif;"Bantuan/Penyuluhan Hukum : Naskah-naskah yang berkaitan dengan kegiatan Pelayanan Bantuan/Penyuluhan Hukum terhadap Tahanan,
+Narapidana dan Anak yang berkonflik dengan hukum.
+";1;;1;;Musnah;
+PK 05.12;Substantif;"Pengeluaran WBP : Naskah-naskah yang berkaitan dengan kegiatan pengeluaran WBP seperti Bebas Murni, Bebas Demi Hukum, dan
+pengeluaran lainnya.
+";1;;1;;Musnah;
+PK 06.01;Substantif;"Penyuluhan dan Pencegahan : Naskah-naskah yang berkaitan dengan kegiatan Penyuluhan dan Pencegahan, KIE
+";1;;1;;Musnah;
+PK 06.02;Substantif;"Perawatan Dasar dan Kelompok Rentan : Naskah-naskah  yang  berkaitan  dengan  kegiatan  Manula, Disabilitas, Kelompok Rentan di UPT Pemasyarakatan
+";1;;1;;Musnah;
+PK 06.03;Substantif;"Perawatan Mental dan Paliatif : Naskah-naskah yang berkaitan dengan kegiatan Perawatan Mental, Kegiatan Paliatif, Laporan Kematian, Kesehatan Jiwa
+";1;;1;;Musnah;
+PK 06.04;Substantif;"Rujukan : Naskah-naskah yang berkaitan dengan Telaah Medis
+Rujukan, Telaah Izin Berobat, dan Laporan JKN
+";1;;1;;Musnah;
+PK 06.05;Substantif;"Rehabilitasi Ketergantungan Napza : Naskah-naskah yang berkaitan dengan kegiatan Rehabilitasi NAPZA
+";1;;1;;Musnah;
+PK 06.06;Substantif;"Perawatan HIV/AIDS : Naskah-naskah yang berkaitan dengan kegiatan Perawatan HIV/AIDS
+";1;;1;;Musnah;
+PK 07.01;Substantif;"Registrasi Benda Sitaan/Rampasan Negara : Naskah-naskah yang berkaitan dengan kegiatan registrasi, penerimaan, pendaftaran, penyimpanan dan pengeluaran
+benda sitaan/barang rampasan negara
+";2;Tahun setelah inkraacht;3;;Musnah;
+PK 07.02;Substantif;"Penilaian  dan  Klasifikasi  Benda  Sitaan/Barang  Rampasan
+Negara : Naskah-Naskah  yang berkaitan  dengan kegiatan pemeliharaan dan  pemusnahan Benda Sitaan/Barang
+Rampasan Negara
+
+";2;Tahun setelah inkraacht;3;;Musnah;
+PK 07.03;Substantif;"Pemeliharaan dan Pemusnahan Benda Sitaan/Barang
+Rampasan Negara : Naskah-Naskah  yang berkaitan  dengan kegiatan pemeliharaan dan  pemusnahan Benda Sitaan/Barang
+Rampasan Negara
+
+";2;Tahun setelah inkraacht;3;;Musnah;
+PK 07.04;Substantif;"Keamanan dan Pengawasan Benda Sitaan/Barang Rampasan
+Negara : Naskah-naskah yang berkaitan dengan kegiatan :
+- Pengamanan, Penjagaan Benda Sitaan/Barang Rampasan Negara
+- Laporan Pencurian, Penggelapan dan Penghilangan Benda
+Sitaan/Barang Rampasan Negara
+
+ ";2;Tahun setelah inkraacht;3;;Musnah;
+PK 07.05;Substantif;"Klarifikasi dan Mutasi Benda Sitaan/Barang Rampasan
+Negara : Naskah-naskah yang berkaitan dengan kegiatan Klarifikasi
+dan Mutasi Benda Sitaan/Barang Rampasan Negara
+
+";2;Tahun setelah inkraacht;3;;Musnah;
+PK 08.01;Substantif;"Keamanan dan Kepatuhan Internal Kode Etik ; Naskah-naskah yang berkaitan dengan:
+- prosedur dan kebutuhan wewenang oleh petugas pemasyarakatan;
+- kegiatan upaya penegakan kode etik dan pengawasan internal terhadap petugas pemasyarakatan, misalnya petugas yang terlibat narkoba, dll
+- memeriksa dan melaksanakan sidang kode etik kepada
+pegawai yang melanggar kode etik profesi.
+";2;;3;;Musnah;
+PK 08.02;Substantif;"Layanan Pengaduan : Naskah-naskah yang berkaitan dengan kegiatan:
+- verifikasi terhadap substansi pengaduan dan klarifikasi atas laporan pengaduan kepada pihak pengadu;
+- investigasi terhadap laporan pengaduan;
+- Tindak lanjut terkait untuk  merespon pengaduan, perbaikan pelayanan dan/atau memberikan klarifikasi
+kepada publik yang menyampaikan pengaduan.
+";2;;3;;Musnah;
+PK 08.03;Substantif;"Intelijen : Naskah-naskah yang berkaitan dengan kegiatan:
+- Pemetaan UPT Pemasyarakatan Rawan Gangguan Kamtib
+- Deteksi Dini UPT
+- Penggalangan UPT
+- Pelatihan internal, dan Pelatihan dengan NGO
+";2;Tahun setelah tindak lanjut;1;;Musnah;
+PK 08.04;Substantif;"Pembinaan dan Penyelenggaraan Layanan Intelijen :Naskah-naskah yang berkaitan dengan Layanan Intelijen, Laporan analisis gangguan kamtib, laporan atensi intelijen,
+profil, diseminasi gangguan, dan lap triwulan
+
+
+";2;;1;;Musnah;
+PK 08.05;Substantif;"Pencegahan dan Pemeliharaan Keamanan dan Ketertiban : Naskah-naskah yang berkaitan dengan kegiatan :
+- Strategi Pencegahan UPT Pemasyarakatan terhadap gangguan keamanan dan pemetaan kerawanan terhadap gangguan keamanan dan ketertiban;
+- Tata tertib dalam Lapas/Rutan;
+- Pencegahan keamanan dengan penggunaan sarana keamanan; 
+- Penggeledahan dan tes urine di seluruh UPT Pemasyarakatan;
+- Pemeliharaan Keamanan dengan sarana dan prasarana
+keamanan.
+
+";1;;2;;Musnah;
+PK 08.06;Substantif;"Penindakan dan Penanggulangan : Naskah-naskah yang berkaitan dengan kegiatan :
+- Pembentukan, dan pelaksanaan tugas dan fungsi satopspatnal baik ditingkat pusat, wilayah, dan UPT;
+- Penindakan  dengan  keadaan tertentu seperti pemberontakan, kebakaran, bencana alam atau penyerangan dari luar UPT;
+- pembentukan tim tanggap darurat di UPT dan termasuk pelatihan yang diberikan terhadap personilnya;
+- Berbagai kasus gangguan keamanan dan ketertiban yang terjadi di UPT, serta berbagai upaya penindakan dalam rangka menanggulangi gangguan kamtib yang pelaporannya dilakukan secara berjenjang baik rutin maupun insidentil.
+- Penegakan keamanan dan tata tertib yang berupa pemberian sanksi terhadap pelanggaran tata tertib yang dilakukan narapidana, anak, tahanan baik berupa tindakan disiplin ataupun hukuman disiplin yang setiap pelaksanaannya dilaporkan baik rutin maupun insidentil;
+- Pemulihan   seperti   rekonsiliasi,   rehabilitasi,   dan
+rekonstruksi setelah terjadinya gangguan keamanan dalam keadaan tertentu.
+";1;;2;;Musnah;
+GR 01.01;Substantif;"Kebijakan Imigrasi meliputi kebijakan di bidang: Lalu Lintas Keimigrasian, Izin Tinggal Orang Asing dan Status Keimigrasian, Penindakan Keimigrasian dan Pendetensian, Kerjasama  Keimigrasian,  Pembinaan  bidang  Keimigrasian,
+Intelijen Keimigrasian, Lintas Informasi Keimigrasian, dan Data Elektronik Personal Keimigrasian ; Naskah-naskah yang berkaitan dengan Kebijakan Imigrasi meliputi kebijakan di bidang: Lalu Lintas Keimigrasian, Izin Tinggal Orang Asing dan Status Keimigrasian, Penindakan Keimigrasian dan Pendetensian, Kerjasama Keimigrasian, Pembinaan bidang Keimigrasian, Intelijen Keimigrasian, Lintas Informasi Keimigrasian, dan Data Elektronik Personal
+Keimigrasian
+
+";2;;3;;Permanen;
+GR 01.02;Substantif;"Dokumen Perjalanan Republik Indonesia (DPRI) : Naskah-naskah yang berkaitan dengan Dokumen Perjalanan Republik Indonesia (fotocopy KTP, Kartu Keluarga, Akte Lahir,  Ijazah,  Surat  Pernyataan,  Perdim  11)  dan  Surat
+Pejalanan Laksana Paspor (SPLP) Warga Negara Indonesia
+";2;Tahun setelah tidak berlaku;1;;Musnah;kecuali Biometrik Vita
+GR 01.03;Substantif;"Pas Lintas Batas : Naskah-naskah yang berkaitan dengan Pas Lintas Batas, Pax List dan Crew List
+";1;Tahun setelah tidak berlaku;4;;Musnah;
+GR 01.04;Substantif;"Surat Pejalanan Laksana Paspor (SPLP) Warga Negara Asing : Naskah-naskah yang berkaitan dengan Pas Lintas Batas Warga Negara Asing (WNA)
+- Visa (Visa Transit, Visa Kunjungan Saat Kedatangan/Visa on Arrival (VOA), Visa Kunjungan Wisata, Visa Kunjungan Sosial Budaya, Visa Kunjungan Usaha dan Visa Kunjungan Tinggal Terbatas
+- Daftar   Penumpang   (Pax   List)   dan   Daftar   Awak
+Kapal/Pesawat (Crew List)
+";1;Tahun setelah tidak berlaku;4;;Musnah;
+GR 01.05;Substantif;"Fasilitas Keimigrasian antara lain ABTC (Asia Pacific
+Economic Corporation Business Travel Card) dan Smart Card : Naskah-naskah yang berkaitan dengan  Kartu  ABTC  (Asia
+Pacific Economic Corporation Business Travel Card) dan Smart Card
+
+";1;Tahun setelah tidak berlaku;4;;Musnah;
+GR 01.06;Substantif;"Persetujuan Visa : Naskah-naskah  yang  berkaitan  dengan  Persetujuan  Visa (Visa Kunjungan, Visa Kunjungan Saat Kedatangan (VKSK), Visa Tinggal Terbatas)
+";;Selama masih dipergunakan ;1;;Musnah;
+GR 01.07;Substantif;"Bebas Visa Kunjungan (BVK) : Naskah-naskah yang berkaitan dengan Bebas Visa Kunjungan
+";;Selama masih dipergunakan ;1;;Musnah;
+GR 01.08;Substantif;"Tanda Masuk dan Tanda Keluar : Naskah-naskah yang berkaitan dengan Tanda Masuk Dan
+Keluar
+";;Selama masih dipergunakan ;1;;Musnah;
+GR 01.09;Substantif;"Rekomendasi Untuk Mendapatkan Work and Holiday Visa : Naskah-naskah yang berkaitan dengan Rekomendasi Untuk Mendapatkan Work and Holiday Visa
+";1;;1;;Musnah;
+GR 01.10;Substantif;"Pengelolaan Dokumen Blangko DPRI, Visa, dan Perdim  : Naskah-naskah yang berkaitan dengan Pengelolaan Dokumen Blangko DPRI, Visa, dan Perdim
+";1;Tahun setelah pemeriksann;5;;Musnah;
+GR 02.01;Substantif;"Izin Tinggal Kunjungan (ITK) :Naskah-naskah Yang Berkaitan Dengan Izin TinggalKunjungan
+";;Selama masih dipergunakan ;1;;Musnah;
+GR 02.02;Substantif;Izin Tinggal Terbatas (ITAS) : Naskah-naskah Yang Berkaitan Dengan Izin Tinggal Terbatas;;Selama masih dipergunakan ;4;;Musnah;
+GR 02.03;Substantif;Izin Tinggal Tetap (ITAP) : Naskah-naskah Yang Berkaitan Dengan Izin Tinggal Tetap;;Selama masih dipergunakan ;4;;Musnah;
+GR 02.04;Substantif;"Alih Status (Konversi) Izin Tinggal Termasuk Penolakannya : Naskah-naskah Yang Berkaitan Dengan Alih Status(Konversi) Izin Tinggal dan Penolakannya
+";;Selama masih dipergunakan ;4;;Musnah;
+GR 02.05;Substantif;"Surat Keterangan Keimigrasian (SKIM) : Naskah-naskah Yang Berkaitan Dengan Surat Izin Keterangan Keimigrasian
+";;Selama masih dipergunakan ;2;;Musnah;
+GR 02.06;Substantif;"Skip Alur Pengambilan Data Biometrik : Naskah-naskah Yang Berkaitan Dengan Skip Alur Pengambilan Data Biometrik
+";;;;;;
+GR 02.07;Substantif;"Penelaahan Status Keimigrasian : Naskah-naskah Yang Berkaitan Dengan Penelaah Status Keimigrasian termasuk Anak Berkewarganegaraan Ganda
+Terbatas, Kawin Campur
+";;Selama masih dipergunakan ;5;;Musnah;
+GR 02.08;Substantif;"Pengelolaan Dokumen Izin Tinggal Keimigrasian : Naskah-naskah Yang Berkaitan Dengan Pengelolaan Naskah- naskah Izin Tinggal Keimigrasian
+";1; Tahun  setelah pemeriksaan;5;;Dinilai Kembali;
+GR 02.09;Substantif;"Permohonan Exit Permit Only (EPO) : Naskah-naskah  Yang  Berkaitan  Dengan  Exit  Permit  Only (EPO)
+";;;;;;
+GR 02.10;Substantif;Permohonan Izin Masuk Kembali (IMK) : Naskah-naskah Yang Berkaitan Dengan Izin Masuk Kembali;;;;;;
+GR 03.01;Substantif;"Penyelidikan dan Penyidikan Keimigrasian : Naskah-naskah yang berkaitan dengan Penyelidikan dan Penyidikan Keimigrasian (Pemantauan, Penyidikan, termasuk Surat Perintah dan Berita Acara Pemeriksaan (BAP), Laporan Kejadian  /  Pengaduan,  Surat  Perintah  Tugas,  Surat
+Perinytah Penyidikan, Surat Perintah Penggeledaan
+";2;;5;;Dinilai Kembali;
+GR 03.02;Substantif;"Pencegahan dan Penangkalan : Naskah-naskah Yang Berkaitan dengan Pencegahan dan Penagkalan
+";2;;5;;Dinilai Kembali;
+GR 03.03;Substantif;Imigran Ilegal : Naskah-naskah Yang Berkaitan dengan Imigran Ilegal;2;;5;;Dinilai Kembali;
+GR 03.04;Substantif;"Pencabutan,  Pembatalan,  Penahanan  Doklan  dan  DOKIM
+termasuk Siar Paspor Yang Dibatalkan : Naskah-naskah Yang Berkaitan dengan Pencabutan, Pembatalan, Penahanan Doklan dan DOKIM Termasuk Siar Paspor yang Dibtalkan
+
+ ";2;;5;;Dinilai Kembali;
+GR 03.05;Substantif;"Pengawasan Terhadap WNI : Naskah-naskah Yang Berkaitan dengan Pengawasan Terhadap WNI
+";2;;3;;Musnah;
+GR 03.06;Substantif;"Pengawasan Terhadap WNA : Naskah-naskah Yang Berkaitan dengan Pengawasan Terhadap WNA
+";2;;3;;Musnah;
+GR 03.07;Substantif;Kepatuhan Internal : Naskah-naskah Yang Berkaitan dengan Kepatuhan Internal;2;;3;;Musnah;kecuali BAP masuk berkas
+GR 03.08;Substantif;Pendeportasian : Naskah-naskah Yang Berkaitan dengan Pendeportasian;;;;;;
+GR 03.09;Substantif;"Tindakan Administratif Keimigrasian : Naskah-naskah  Yang  Berkaitan  dengan  Pelanggaran  dan
+Penindakan Tindakan Administratif Keimigrasian
+";;;;;;
+GR 03.10;Substantif;"Daftar Pencarian Orang (DPO) : Naskah-naskah  Yang  Berkaitan  dengan  Daftar  Pencarian Orang (DPO)
+";;;;;;
+GR 03.11;Substantif;Pendetensian : Naskah-naskah Yang Berkaitan dengan Pendetensian;;;;;;
+GR 04.01;Substantif;"Penyelidikan dan Operasi Intelijen Keimigrasian : Naskah-naskah Yang Berkaitan dengan Penyelidikan dan Operasi Intelijen Keimigrasian diantaranya (Pengumpulan Bahan    Keterangan/Pulbaket;    Operasi    Kewilayahan;
+Penggalangan)
+";2;;5;;Dinilai Kembali;
+GR 04.02;Substantif;"Pengamanan Keimigrasian : Naskah-naskah Yang Berkaitan dengan Pengamanan Keimigrasian diantaranya (pengamanan perizinan keimigrasian; Pengamanan Personil, Material dan Dokumen;
+Pengamanan Kantor dan Instalasi Vital)
+";2;;3;;Musnah;
+GR 04.03;Substantif;"Kerjasama Intelijen Keimigrasian : Naskah-naskah Yang Berkaitan dengan Kerjasama Intelijen Keimigrasian Lembaga dan Non Lembaga
+";2;;3;;Musnah;
+GR 04.04;Substantif;"Produk Intelijen Keimigrasian : Naskah-naskah Yang Berkaitan dengan Produk Intelijen Keimigrasian
+";;Selama masih berlaku;5;;Permanen;
+GR 05.01;Substantif;"Kerja Sama Antar Lembaga (Dalam Negeri) : Naskah-naskah Yang Berkaitan dengan Kerja Sama Antar Lembaga (Dalam Negeri)
+";;;;;;
+GR 05.02;Substantif;"Kerja Sama Antar negara : Naskah-naskah Yang Berkaitan dengan Kerja Sama Antar Negara (Bilateral dan Multilateral)
+";;;;;;
+GR 05.03;Substantif;Kerja Sama dengan Organisasi Internasional : Naskah-naskah Yang Berkaitan dengan Kerja Sama dengan Organisasi Internasional;;;;;;
+GR 05.04;Substantif;"Pembinaan Perwakilan RI di Luar Negeri : Naskah-naskah Yang Berkaitan dengan Pembinaan Perwakilan RI di Luar Negeri
+";;;;;;
+GR 06.01;Substantif;"Lintas Informasi Internal termasuk Tukar Menukar Informasi
+dan Pelaporan Kegiatan Keimigrasian : Naskah-naskah Yang Berkaitan dengan Lintas Informasi Internal termasuk Tukar Menukar Informasi dan Pelaporan Kegiatan Keimigrasian
+
+ ";2;Tahun setelah diperbaharui;3;;Musnah;
+GR 06.02;Substantif;"Lintas  Informasi  External  termasuk  Pertukaran  Informasi
+dengan Institusi di Luar Imigrasi : Naskah-naskah Yang Berkaitan dengan Lintas Informasi External termasuk Pertukaran Informasi dengan Institusi di
+Luar Imigrasi
+
+ ";2;Tahun setelah diperbaharui;3;;Musnah;
+GR 06.03;Substantif;"Data Keimigrasian : Naskah-naskah Yang Berkaitan dengan Data Data Keimigrasian
+";1;Tahun setelah diperbaharui;1;;Musnah;
+GR 06.04;Substantif;"Permohonan Data Keimigrasian : Naskah-naskah Yang Berkaitan dengan Permohonan Data Data Keimigrasian
+";1;Tahun setelah diperbaharui;1;;Musnah;
+GR 06.05;Substantif;"Perubahan Data Status Keimigrasian WNA : Naskah-naskah yang berkaitan dengan lapor kematian, lapor lahir, perubahan alamat, pergantian kewarganegaraan
+";2;Tahun setelah diperbaharui;1;;Musnah;
+GR 06.06;Substantif;"Data Permohonan Ditolak Sistem : Naskah-naskah yang berkaitan dengan berkas pembatalan permohonan karena ditolak sistem
+";2;Tahun setelah diperbaharui;1;;Musnah;
+GR 07.01;Substantif;"Warga Negara Indonesia : Naskah-naskah Keimigrasian yang Berkaitan dengan Perwakilan Luar Negeri Warga Indonesia
+";;Selama masih dipergunakan ;1;;Musnah;
+GR 07.02;Substantif;"Warga Negara Asing :Naskah-naskah Keimigrasian yang Berkaitan dengan Perwakilan Luar Negeri Warga Negara Asing
+";;Selama masih dipergunakan ;1;;Musnah;
+KI 01.01;Substantif;"Proses Penyelesaian Permohonan Pencatatan Ciptaan
+Proses Penyelesain Permohonan Pencatatan
+- Pemeriksaan Administrasi/Formalitas
+- Ralat / Perbaikan Permohonan dan Surat Pencatatan Ciptaan
+- Pengalihan Hak
+- Perubahan Nama dan Alamat
+- Penolakan
+- Penarikan (Atas Permintaan Sendiri atau Kekurangan Formalitas Tidak Terpenuhi)
+";2;;3;;Musnah;
+KI 01.01.01;Substantif;"Pemberitahuan Kekurangan Kelengkapan Permohonan : Naskah-naskah yang berkaitan dengan kegiatan permintaan dokumen kelengkapan atas kekurangan  persyaratan  permohonan  kepada
+pemohon hak cipta
+
+";2;;3;;Musnah;
+KI 01.01.02;Substantif;"Tarik Kembali : Naskah-naskah yang berkaitan dengan kegiatan putusan akhir berupa putusan dianggap ditarik kembali dari proses penyelesaian permohonan hak cipta
+";2;;3;;Musnah;
+KI 01.01.03;Substantif;" Tidak Dapat Dicatatkan : Naskah-naskah yang berkaitan dengan kegiatan putusan akhir berupa putusan tidak dapat dicatatatkan dari proses penyelesaian
+pemohonan hak cipla
+";2;;3;;Musnah;
+KI 01.02.01;Substantif;"Pemberitahuan Kekurangan Kelengkapan Permohonan Pasca Pencatatan Ciptaan : Naskah-naskah yang berkaitan dengan kegiatan permintaan dokumen kelengkapan atas kekurangan  persyaratan  permohonan  pasca pencatatan ciptaan kepada pemegang ciptaan
+";2;;3;;Musnah;
+KI 01.02.02;Substantif;Pemberitahuan Kekurangan Kelengkapan Persyaratan Formalitas : Naskah-naskah yang berkaitan dengan kegiatan permintaan dokumen kelengkapan atas kekurangan   persyaratan   formalitas   kepada pemohon desain industri ;2;;3;;Musnah;
+KI 01.02.03;Substantif;Koreksi Surat Pencatatan Ciptaan  : Naskah-naskah yang berkaitan dengan kegiatan permohonan koreksi surat pencatatan ciptaan atas ciptaan yang telah dicatatkan dalam daftar  umum ciptaan ;2;;3;;Musnah;
+KI 01.02.04;Substantif;"Pencatatan Pengalihan Hak : Naskah-naskah yang berkaitan dengan kegiatan permohonan pencatatan pengalihan hak atas ciptaan  yang  telah  dicatatkan  dalam  daftar
+umum ciptaan
+";2;;3;;Musnah;
+KI 01.02.05;Substantif;"Pencatatan Perjanjian Lisensi Berdasarkan Surat Pencatatan Ciptaan : Naskah-naskah yang berkaitan dengan kegiatan permohonan pencatatan perjanjian lisensi atas ciptaan  yang  telah  dibatalkan  dalam  daftar umum ciptaan
+
+ ";;;;;;
+KI 01.02.06;Substantif;"Pencatatan Perjanjian Lisensi Tidak Berdasarkan Surat Pencatatan Ciptaan : Naskah-naskah yang berkaitan dengan kegiatan permohonan pencatatan perjanjian lisensi atas ciptaan  yang  tidak  dicatatakan  dalam  daftarumum ciptaan
+
+";;;;;;
+KI 01.02.07;Substantif;"Petikan Resmi Surat Pencatatan Ciptaan : Naskah-naskah yang berkaitan dengan kegiatan permohonan petikan resmi surat pencatatan ciptaan atas ciptaan yang telah dicatatkan dalam
+daftar umum ciptaan
+";;;;;;
+KI 01.02.08;Substantif;"Salinan Surat Pencatatan Ciptaan : Naskah-naskah yang berkaitan dengan kegiatan permohonan salinan surat pencatatan ciptaan atas ciptaan yang telah dicatatkan dalam daftar umum ciptaan
+";;;;;;
+KI 01.02.09;Substantif;"Pembatalan Ciptaan : Naskah-naskah yang berkaitan dengan kegiatan permohonan  pembalalan  ciptaan  atas  ciptaan yang telah dicatatkan dalam daftar umum ciptaan
+";;;;;;
+KI 01.02.10;Substantif;"Penghapusan Ciptaan : Naskah-naskah yang berkaitan dengan kegiatan permohonan penghapusan ciptaan atas ciptaan yang  telah  dicatatkan  dalam  daftar  umum
+ciptaan
+";;;;;;
+KI 01.03;Substantif;Pelayanan Hukum/Pendapat Hukum;;;;;;
+KI 01.03.01;Substantif;"Pertimbangan/Pendapat Hukum Hak Cipta : Naskah-naskah yang berkaitan dengan kegiatan pertimbangan/pendapat hukum hak cipta
+";;;;;;
+KI 01.03.02;Substantif;"Keputusan Penghapusan Hak Cipta atas Permohonan Pemegang Hak Cipta : Naskah-naskah yang berkaitan dengan kegiatan
+penghapusan hak cipta atas permohonan pemegang hak cipta
+
+ ";;;;;;
+KI 01.03.03;Substantif;"Keputusan Pembatalan Hak Cipta atas Putusan Pengadilan : Naskah-naskah yang berkaitan dengan kegiatan pembatalan hak cipta atas putusan pengadilan
+
+ ";;;;;;
+KI 01.03.04;Substantif;"Tanggapan atas Permohonan Keterangan Tertulis Hak Cipta : Naskah-naskah yang berkaitan dengan kegiatan tanggapan atas permohonan keterangan tertulis hak cipta
+
+ ";;;;;;
+KI 01.03.05;Substantif;"Ahli perkara Pidana Hak Cipta : Naskah-naskah yang berkaitan dengan kegiatan
+permohonan ahli perkara pidana hak cipta
+";;;;;;
+KI 01.03.06;Substantif;"Saksi ahli Hak Cipta di Pengadilan : Naskah-naskah yang berkaitan dengan kegiatan
+permohonan saksi ahli hak cipta di pengadilan
+";;;;;;
+KI 01.03.07;Substantif;"Kuasa Khusus Pengadilan atas perkara Hak Cipta : Naskah-naskah yang berkaitan dengan kegiatan permohonan kuasa khusus pengadilan atas perkara hak cipta
+
+ ";;;;;;
+KI 01.04;Substantif;Lembaga Manajemen Kolektif;2;;3;;Permanen;
+KI 01.04.01;Substantif;"Rekomendasi Ijin Operasional : Naskah-naskah yang berkaitan dengan kegiatan keputusan rekomendasi atas perolehan ijin
+operasional lembaga manajemen kolektif
+";;;;;;
+KI 01.04.02;Substantif;"Pemberitahuan Verifikasi Ijin Operasional : Naskah-naskah yang berkaitan dengan kegiatan pemberitahuan akan dilakukan verifikasi ijin
+operasional kepada lembaga manajemen kolektif
+";;;;;;
+KI 01.04.03;Substantif;"Pemberitahuan Hasil Verifikasi Operasional : Naskah-naskah yang berkaitan dengan kegiatan pemberitahuan atas hasil verifikasi ijin
+operasional lembaga manajemen kolektif
+";;;;;;
+KI 01.04.04;Substantif;"Evaluasi LMK : Naskah-naskah yang berkaitan dengan kegiatan
+poses evaluasi LMK
+";;;;;;
+KI 02.01.02;Substantif;"Proses Penyelesaian Permohonan Pendaftaran Desain
+Industri ; Pemberitahuan Kekurangan Kelengkapan
+Persyaratan Formalitas:Naskah-naskah yang berkaitan dengan kegiatan permintaan dokumen kelengkapan atas kekurangan   persyaratan   formalitas   kepada
+pemohon desain industri
+
+
+";2;;3;;Musnah;
+KI 02.01.02;Substantif;"Perpanjangan  Waktu  Pemenuhan  Kelengkapan Persyaratan : Naskah-naskah yang berkaitan dengan kegiatan pemenuhan permohonan atas permintaan perpanjangan waktu untuk melengkapi kelengkapan  persyaratan  permohonan  desain
+industri
+
+";;;;;;
+KI 02.01.03;Substantif;"Pemberitahuan Kekurangan Biaya Permohonan : Naskah-naskah yang berkaitan dengan kegiatan pemberitahuan kekurangan biaya permohonan
+desain industri
+";;;;;;
+KI 02.01.04;Substantif;"Pemberitahuan Perubahan Data Permohonan : Naskah-naskah yang berkaitan dengan kegiatan
+pemenuhan permohonan atas permintaan perubahan data permohonan desain industri
+";;;;;;
+KI 02.01.05;Substantif;"Pemberitahuan Perubahan Data Konsultan : Naskah-naskah yang berkaitan dengan kegiatan pemenuhan permohonan atas permintaan
+perubahan data konsultan
+";;;;;;
+KI 02.01.06;Substantif;"Penarikan Kembali Permohonan Atas Permintaan Pemohon : Naskah-naskah yang berkaitan dengan kegiatan putusan akhir berupa putusan penarikan kembali permohonan atas permintaan pemohon
+
+ ";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.01.07;Substantif;"Keputusan Dianggap Ditarik Kembali (Formalitas) : Naskah-naskah yang berkaitan dengan kegiatan putusan akhir berupa putusan dianggap ditarik kembali  (formalitas)  dari  proses  penyelesaian permohonan desain industri
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.01.08;Substantif;"Penundaan Pengumuman : Naskah-naskah yang berkaitan dengan kegiatan pemenuhan permohonan penundaan pengumuman  yang  dilakukan  oleh  pemohon
+desain industri
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.01.09;Substantif;"Keberatan atas Pengumuman : Naskah-naskah yang berkaitan dengan kegiatan penyampaian tentang adanya keberatan dari masyarakat atas desain industri yang sedang diumumkan  DJKI  dalam  Berita  Resmi  Desain Industri kepada pemohon desain industri
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.01.10;Substantif;Pemberitahuan Kekurangan Kelengkapan : Persyaratan Pemeriksaan Substansi;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.01.11;Substantif;"Keputusan Dianggap Ditarik Kembali (Substantif) : Naskah-naskah yang berkaitan dengan kegiatan putusan akhir berupa putusan dianggap ditarik kembali  (substantif)  dari  proses  penyelesaian
+permohonan desain industri
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.01.12;Substantif;"Keputusan Tolak : Naskah-naskah yang berkaitan dengan kegiatan
+putusan akhir berupa putusan ditolak dari proses penyelesaian permohonan desain industri
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.02;Substantif;"Bukti Prioritas : Naskah-naskah yang berkaitan dengan kegiatan penerbitan atas permohonan bukti prioritas dari pemohon desain industri  dalam  negeri  untuk  proses  pendaftaran  desain
+industri mereka di luar negeri
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03;Substantif;Pasca Pendaftaran Desain Industri;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.01;Substantif;"Pemberitahuan Kekurangan Kelengkapan Permohonan Pasca Pendaftaran Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permintaan dokumen kelengkapan atas kekurangan persyaratan permohonan pasca pendaftaran  desain  industri  kepada  pemegang
+hak desain industri
+
+ ";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.02;Substantif;"Perubahan Nama dan/atau Alamat : Naskah-naskah yang berkaitan dengan kegiatan permohonan Perubahan Nama dan/atau Alamat pemegang  hak  desain  industri  atas  desain industri yang telah didaftar
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.03;Substantif;"Koreksi Sertifikat Desain Industri : Naskah-naskah yang berkaitan dengan kegiatanpermohonan  koreksi  sertifikat  desain  industri
+atas desain industri yang telah didaftar
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.04;Substantif;"Pencatatan Pengalihan Hak Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan pencatatan pengalihan hak desain
+industri atas desain industri yang telah didaftar
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.05;Substantif;"Pencatatan Perjanjian Lisensi Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan pencatatan perjanjian lisensi desain
+industri atas desain industri yang telah didaftar
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.06;Substantif;"Petikan Resmi Sertifikat Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan petikan resmi desain industri atas
+desain industri yang telah didaftar
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.07;Substantif;"Salinan Sertifikat Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan  salinan  sertifikat  desain  industri
+atas desain industri yang telah didaftar
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.08;Substantif;"Pembatalan Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan pembatalan desain industri atas
+desain industri yang telah didaftar
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.03.09;Substantif;"Penghapusan Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan penghapusan desain industri atas
+desain industri yang telah didaftar
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 02.04;Substantif;Pelayanan Hukum/Pendapat Hukum;;;;;;
+KI 02.04.01;Substantif;"Pertimbangan/Pendapat Hukum Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan
+pertimbangan/pendapat hukum desain industri
+";;;;;;
+KI 02.04.02;Substantif;"Keputusan Pembatalan Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan keputusan pembatalan desain industri
+";;;;;;
+KI 02.04.03;Substantif;"Tanggapan atas Permohonan Keterangan TertulisDesain Industri :Naskah-naskah yang berkaitan dengan kegiatan tanggapan atas permohonan keterangan tertulis desain industri
+";;;;;;
+KI 02.04.04;Substantif;"Ahli perkara Pidana Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan ahli perkara pidana desaini Industri
+";;;;;;
+KI 02.04.05;Substantif;"Saksi ahli Desain Industri di Pengadilan : Naskah-naskah yang berkaitan dengan kegiatan permohonan saksi ahli desain industri di pengadilan
+";;;;;;
+KI 02.04.06;Substantif;"Kuasa Khusus Pengadilan atas perkara Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan kuasa khusus pengadilan atas perkara desain industri
+
+ ";;;;;;
+KI 02.05;Substantif;"Komisi Banding Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan permohonan banding desain industri
+";;;;;;
+KI 02.06;Substantif;"Pendaftaran Desain Industri Internasional : Naskah-naskah yang berkaitan dengan kegiatan permohonan pendaftaran desain industri internasional
+";;;;;;
+KI 02.07;Substantif;"Proses Penyelesaian Permohonan Pencatatan Desain Industri : Naskah-naskah yang berkaitan dengan kegiatan proses penyelesaian permohonan pencatatan desain industri
+";;;;;;
+KI 03.01;Substantif;Proses Penyelesaian Permohonan Pendaftaran;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.01;Substantif;Pemeriksaan Administrasi/Formalitas;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.02;Substantif;Perbaikan Data Permohonan;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.03;Substantif;Publikasi/Pengumuman/Berita Resmi;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.04;Substantif;"Penarikan (Atas Permintaan Sendiri atau
+Kekurangan Formalitas Tidak Terpenuhi)
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.05;Substantif;Pemberitahuan Penolakan;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.06;Substantif;Ralat/Perbaikan Permohonan dan Sertifikat;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.07;Substantif;Pengalihan Hak;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.08;Substantif;Perubahan Nama dan Alamat;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.09;Substantif;Penghapusan;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.01.10;Substantif;Pembatalan;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.02;Substantif;Sertifikat/Kutipan;3;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 03.02.01;Substantif;Pemberitahuan Koreksi sertifikat DTLST;;;;;;
+KI 03.02.02;Substantif;"Pemberitahuan Kekurangan Persyaratan Koreksi
+Sertifikat DTLST
+";;;;;;
+KI 03.02.03;Substantif;Petikan Daftar Umum DTLST;;;;;;
+KI 03.02.04;Substantif;"Pemberitahuan Kekurangan Persyaratan Petikan
+Daftar Umum DTLST
+";;;;;;
+KI 03.03;Substantif;Bukti Prioritas;3;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 03.04;Substantif;Keterangan Status Permohonan Pendaftaran;1;;1;;Musnah;
+KI 03.05;Substantif;Permohonan Petikan Resmi;1;;1;;Musnah;
+KI 03.06;Substantif;Lisensi;2;;3;;Permanen;
+KI 03.06.01;Substantif;Pemberitahuan Pencatatan Lisensi DTLST;;;;;;
+KI 03.06.02;Substantif;"Kekurangan Persyaratan Pencatatan Lisensi
+DTLST
+";;;;;;
+KI 03.06.03;Substantif;Pemberitahuan Pencatatan Lisensi Paten;;;;;;
+KI 03.06.04;Substantif;"Kekurangan Persyaratan Pencatatan Lisensi Paten
+";;;;;;
+KI 03.07;Substantif;Pelanggaran/Penegakan Hukum;;;;;;
+KI 03.08;Substantif;Pendapat Hukum/Saksi Ahli;;;;;;
+KI 04.01;Substantif;Pencatatan Lisensi Rahasia Dagang;;;;;;
+KI 04.01.01;Substantif;"Pemberitahuan Pencatatan Lisensi Rahasia
+Dagang
+";;;;;;
+KI 04.01.02;Substantif;"Kekurangan Persyaratan Pencatatan Lisensi Rahasia Dagang
+";;;;;;
+KI 04.02;Substantif;Pengalihan Hak;2;Tahun setelah kerahasiaannya tidak terjaga;3;;Musnah;
+KI 04.03;Substantif;Pendapat Hukum/Saksi Ahli;2;Tahun setelah memiliki kekuatan hukum;3;;Musnah;
+KI 05.01;Substantif;Proses Penyelesaian Permohonan Pendaftaran;2;Tahun setelah masa perlindungan berakhir;3;;"Musnah 
+";kecuali Jasa Renik disimpan selama 35 tahun
+KI 05.01.01;Substantif;"Pemeriksaan Administrasi/Formalitas : - Pemberitahuan kekurangan Persyaratan
+formalitas Permohonan Paten
+- Pemberitahuan Persyaratan formalitas
+Permohonan Paten telah dipenuhi
+- Pemberitahuan Perubahan Data Permohonan
+Paten telah diproses
+- Pemberitahuan Perubahan data Permohonan
+Paten belum dapat diproses
+- Surat tanggapan permohonan Penarikan
+Kembali Oleh permohon
+- Dianggap ditarik kembali
+- Pencabutan Surat dianggap ditarik kembali
+- Tanggapan atas surat permohonan peninjauan
+kembali
+- Pemberitahuan Kekurangan Persyaratan
+Formalitas Permohonan PCT-ID
+- Pemberitahuan Persyaratan Formalitas PCT-ID
+Telah Dipenuhi
+- Pemberitahuan Kekurangan Persyaratan
+Formalitas Permohonan ASPEC
+- Pemberitahuan Persyaratan Formalitas ASPEC
+Telah Dipenuhi
+- Pemberitahuan Kekurangan Persyaratan
+Formalitas Permohonan PPH
+- Pemberitahuan Persyaratan Formalitas PPH
+Telah Dipenuhi
+- Pemberitahuan permohonan paten belum
+dapat diproses
+- Pencatatan pengalihan permohonan paten
+";2;Tahun setelah masa perlindungan berakhir;3;;"Musnah 
+";kecuali Jasa Renik disimpan selama 35 tahun
+KI 05.01.02;Substantif;Perbaikan Data Permohonan;2;Tahun setelah masa perlindungan berakhir;3;;"Musnah
+";"kecuali Jasa Renik disimpan selama 35 tahun
+"
+KI 05.01.03;Substantif;Klasifikasi;2;Tahun setelah masa perlindungan berakhir;3;;"Musnah
+";"kecuali Jasa Renik disimpan selama 35 tahun
+"
+KI 05.01.04;Substantif;"Publikasi : - Pemberitahuan keberatan atas permohonan paten, - Pemberitahuan permohonan paten telah
+diumumkan
+- Pemberitahuan permohonan paten tidak
+diumumkan
+
+";2;Tahun setelah masa perlindungan berakhir;3;;"Musnah
+";"kecuali Jasa Renik disimpan selama 35 tahun
+"
+KI 05.01.05;Substantif;Oposisi;2;Tahun setelah masa perlindungan berakhir;3;;"Musnah
+";"kecuali Jasa Renik disimpan selama 35 tahun
+"
+KI 05.01.06;Substantif;Penarikan Kembali;2;Tahun setelah masa perlindungan berakhir;3;;"Musnah
+";"kecuali Jasa Renik disimpan selama 35 tahun
+"
+KI 05.01.07;Substantif;Pemberitahuan Penolakan;2;Tahun setelah masa perlindungan berakhir;3;;"Musnah
+";"kecuali Jasa Renik disimpan selama 35 tahun
+"
+KI 05.01.08;Substantif;"Pemeriksaan Substantif : - Pemberitahuan Hasil Pemeriksaan Substantif
+Tahap Awal
+- Pemberitahuan Hasil Pemeriksaan Substantif
+Tahap Lanjut
+- Penarikan Kembali Substantif
+- Dianggap Ditarik Kembali Substantif
+- Pemberitahuan Dapat Diberi Paten
+- Pemberitahuan Dapat Diberi Paten Sederhana
+- Pemberitahuan Penolakan Paten
+- Pemberitahuan Penolakan Paten Sederhana
+- Keputusan Peninjauan
+";2;Tahun setelah masa perlindungan berakhir;3;;"Musnah
+";"kecuali Jasa Renik disimpan selama 35 tahun
+"
+KI 05.01.09;Substantif;Ralat/Perbaikan;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 05.01.10;Substantif;Pengalihan Hak;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 05.01.11;Substantif;Perubahan Nama dan Alamat;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 05.01.12;Substantif;Penghapusan;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 05.01.13;Substantif;Pembatalan;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 05.02;Substantif;Sertifikat;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 05.02.01;Substantif;Pemberitahuan Koreksi sertifikat Paten;;;;;;
+KI 05.02.02;Substantif;"Pemberitahuan Kekurangan Persyaratan Koreksi
+Sertifikat Paten
+";;;;;;
+KI 05.02.03;Substantif;"Pemberitahuan Pengambilan Sertifikat/Jasa
+Cetak Sertifikat Paten
+";;;;;;
+KI 05.03;Substantif;Bukti Prioritas;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04;Substantif;Pemeliharaan Paten;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.01;Substantif;"Pemberitahuan Pemenuhan Kewajiban
+Pembayaran Biaya Pemeliharaan
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.02;Substantif;Pemberitahuan Paten Dihapuskan (Ada Hutang);2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.03;Substantif;"Pemberitahuan Paten Dihapuskan (Tidak Ada Hutang)
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.04;Substantif;"Pemberitahuan Penghapusan Atas Permintaan
+Pemegang Paten (PAPS) Ada Hutang
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.05;Substantif;"Pemberitahuan Penghapusan Atas Permintaan Pemegang Paten (PAPS) Tidak Ada Hutang
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.06;Substantif;"Pemberitahuan Kekurangan Persyaratan Penghapusan Atas Permintaan Pemegang Paten
+(PAPS) 6
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.07;Substantif;Pemberitahuan Ralat PAPS dengan Piutang;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.08;Substantif;Pemberitahuan Ralat PAPS dengan tanpa Piutang;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.09;Substantif;"Pemberitahuan Penundaan Pembayaran Pemeliharaan Paten diterima
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.10;Substantif;"Pemberitahuan Penundaan Pembayaran Pemeliharaan Paten ditolak
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.11;Substantif;Pemberitahuan Penghapusan Sebagian Klaim;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.12;Substantif;Pemberitahuan Pencabutan Surat;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.13;Substantif;Pemeliharaan Lainnya;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.04.14;Substantif;"Permohonan penundaan pelaksanaan paten pasal 20
+";2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.05;Substantif;Penelusuran;2;;2;;Musnah;
+KI 05.05.01;Substantif;Penelusuran subjek matter terakses;2;;2;;Musnah;
+KI 05.05.02;Substantif;Penelusuran subjek matter tidak dapat terakses;2;;2;;Musnah;
+KI 05.05.03;Substantif;Penelusuran paten family terakses;2;;2;;Musnah;
+KI 05.05.04;Substantif;Penelusuran paten family tidak dapat terakses;2;;2;;Musnah;
+KI 05.05.05;Substantif;"Penelusuran  senyawa  (original,  garam,  kristal)
+terakses
+";2;;2;;Musnah;
+KI 05.05.06;Substantif;"Penelusuran  senyawa  (original,  garam,  kristal)
+tidak dapat terakses
+
+
+";2;;2;;Musnah;
+KI 05.05.07;Substantif;Penelusuran senyawa kombinasi terakses;2;;2;;Musnah;
+KI 05.05.08;Substantif;"Penelusuran senyawa kombinasi tidak dapat
+terakses
+";2;;2;;Musnah;
+KI 05.05.09;Substantif;Penelusuran komposisi/formulasi terakses;2;;2;;Musnah;
+KI 05.05.10;Substantif;"Penelusuran komposisi/formulasi tidak dapat terakses
+";2;;2;;Musnah;
+KI 05.06;Substantif;Keterangan Status Permohonan Pendaftaran;1;;1;;Musnah;
+KI 05.07;Substantif;Petikan Daftar Umum Paten;1;;1;;Musnah;
+KI 05.07.01;Substantif;Permohonan Petikan Daftar Umum Paten;1;;1;;Musnah;
+KI 05.07.02;Substantif;"Kekurangan Persyaratan Petikan Resmi Daftar
+Umum Paten
+";1;;1;;Musnah;
+KI 05.07.03;Substantif;Salinan Dokumen Paten;1;;1;;Musnah;
+KI 05.07.04;Substantif;Permohonan Salinan Dokumen Paten;1;;1;;Musnah;
+KI 05.07.05;Substantif;Kekurangan Persyaratan Salinan Dokumen Paten;1;;1;;Musnah;
+KI 05.08;Substantif;Lisensi;2;;3;;Musnah;
+KI 05.08.01;Substantif;Pemberitahuan Pencatatan Lisensi Paten;2;;3;;Musnah;
+KI 05.08.02;Substantif;"Kekurangan Persyaratan Pencatatan Lisensi
+Paten
+";2;;3;;Musnah;
+KI 05.09;Substantif;Pelanggaran/Penegakan Hukum di Bidang Paten;"2 
+";"Tahun setelah
+memiliki
+kekuatan hukum
+tetap";3;;Musnah;
+KI 05.10;Substantif;Pendapat Hukum/Saksi Ahli;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.11;Substantif;Komisi Banding;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.11.01;Substantif;Pemberitahuan Kekurangan Kelengkapan;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.11.02;Substantif;Pemanggilan Para Pihak (Hearing);2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.11.03;Substantif;Surat penyampaian salinan;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.11.04;Substantif;Putusan;2;Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 05.12;Substantif;Pengalihan;;;;;;
+KI 05.12.01;Substantif;Pencatatan Pengalihan Paten;;;;;;
+KI 05.12.02;Substantif;"Kekurangan Persyaratan Pencatatan Pengalihan
+Paten
+";;;;;;
+KI 05.12.03;Substantif;Pengalihan Hak Tidak Dapat Diterima/Diproses;;;;;;
+KI 05.12.04;Substantif;Perubahan Data Bibliografi;;;;;;
+KI 05.12.05;Substantif;"Kekurangan Persyaratan Perubahan Data
+Bibliografi
+";;;;;;
+KI 05.12.06;Substantif;"Perubahan Data Bibliografi Tidak Dapat
+Diterima/Diproses
+";;;;;;
+KI 05.13;Substantif;Perbaikan;;;;;;
+KI 05.13.01;Substantif;Perbaikan Sertifikat Paten;;;;;;
+KI 05.13.02;Substantif;Kekurangan Persyaratan Perbaikan Sertifikat Paten;;;;;;
+KI 05.13.03;Substantif;Perbaikan Sertifikat DTLST;;;;;;
+KI 05.13.04;Substantif;"Kekurangan Persyaratan Perbaikan Sertifikat
+DTLST
+";;;;;;
+KI 06.01;Substantif;Proses Penyelesaian Permohonan Pendaftaran;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.01;Substantif;Pemeriksaan Administrasi/Formalitas;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.02;Substantif;Perbaikan Data Permohonan;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.03;Substantif;Dianggap Ditarik Kembali Formalitas;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.04;Substantif;Surat Eksekusi Formalitas;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.05;Substantif;Klasifikasi;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.06;Substantif;Publikasi/Pengumuman/Berita Resmi Merek;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.07;Substantif;Keberatan/Oposisi;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.08;Substantif;Penarikan Kembali;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.09;Substantif;Pemeriksaan Substantif;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.10;Substantif;Pemberitahuan Usul Penolakan;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.11;Substantif;Pemberitahuan Usul Daftar;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.12;Substantif;Pemberitahuan Penilaian Keberatan (UU Lama);2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.13;Substantif;"Pemberitahuan Pemeriksaan Keberatan (UU
+Baru)
+";2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.14;Substantif;Pemberitahuan Tanggapan Diterima;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.15;Substantif;Pemberitahuan Penolakan Definitif;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.16;Substantif;Ralat/Perbaikan;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.17;Substantif;Pengalihan Hak;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.18;Substantif;Perubahan Nama dan Alamat;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.19;Substantif;Penghapusan;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.01.20;Substantif;Pembatalan;2;Tahun setelah masa perlindungan berakhir /tidak diperpanjang masa perlindungan merek;3;;Musnah;
+KI 06.02;Substantif;Sertifikat/Kutipan;2; Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 06.02.01;Substantif;Legalisir Sertifikat untuk Pengadilan;2; Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 06.03;Substantif;Bukti Prioritas;2; Tahun setelah masa perlindungan berakhir;3;;Musnah;
+KI 06.04;Substantif;Keterangan Status Permohonan Pendaftaran;1;;1;;Musnah;
+KI 06.05;Substantif;Permohonan Petikan Resmi;1;;1;;Permanen;
+KI 06.06;Substantif;Lisensi;2;;3;;Permanen;
+KI 06.07;Substantif;Penyelesaian/Pertimbangan Hukum atas Merek;2;;3;;Permanen;
+KI 06.07.01;Substantif;Surat Tugas Persidangan;2;;3;;Permanen;
+KI 06.07.02;Substantif;"Kekurangan Persyaratan Pembatalan Merek/ Pelaksanaan Putusan Mahkamah Agung
+";2;;3;;Permanen;
+KI 06.07.03;Substantif;Pembatalan Merek;2;;3;;Permanen;
+KI 06.07.04;Substantif;"Penjelasan Terkait Permohonan Klarifikasi Status Hukum Merek/Pengaktifan Kembali
+";2;;3;;Permanen;
+KI 06.07.05;Substantif;"Kekurangan Persyaratan Penghapusan Atas Prakarsa Menteri
+";2;;3;;Permanen;
+KI 06.07.06;Substantif;Penghapusan atas Prakarsa Menteri;2;;3;;Permanen;
+KI 06.08;Substantif;Pendapat Hukum/Tanggapan/Analisa Hukum;2;;3;;Permanen;
+KI 06.08.01;Substantif;Penjelasan Hukum atas Merek;2;;3;;Permanen;
+KI 06.08.02;Substantif;Surat Perintah Saksi Ahli;2;;3;;Permanen;
+KI 06.09;Substantif;Perpanjangan Merek;"2 
+";"Tahun setelah
+masa
+perlindungan
+berakhir /tidak
+diperpanjang
+masa
+perlindungan
+merk";3;;Musnah;
+KI 06.09.01;Substantif;"Pemberitahuan Perpanjangan Merek Tidak Dapat Dilaksanakan
+";"2 
+";"Tahun setelah
+masa
+perlindungan
+berakhir /tidak
+diperpanjang
+masa
+perlindungan
+merk";3;;Musnah;
+KI 06.09.02;Substantif;Surat Keterangan Perpanjangan;"2 
+";"Tahun setelah
+masa
+perlindungan
+berakhir /tidak
+diperpanjang
+masa
+perlindungan
+merk";3;;Musnah;
+KI 06.09.03;Substantif;"Surat  Penarikan  Pemberitahuan  Perpanjangan Merek
+";2;"Tahun setelah
+masa
+perlindungan
+berakhir /tidak
+diperpanjang
+masa
+perlindungan
+merk
+";3;;Musnah;
+KI 06.10;Substantif;Monitoring Merek Terdaftar;2;;3;;Musnah;
+KI 06.11;Substantif;Keterangan Tertulis;2;;2;;Musnah;
+KI 06.12;Substantif;Komisi Banding Merek;2;" Tahun setelah
+masa
+perlindungan
+berakhir";3;;Musnah;
+KI 06.13;Substantif;Banding terhadap Penolakan Perpanjangan Merek;;;;;;
+KI 06.14;Substantif;Penghapusan Merek Terdaftar atas Prakarsa Menteri;;;;;;
+KI 06.15;Substantif;Pengadilan;;;;;;
+KI 06.16;Substantif;Keputusan Ketua Komisi Banding Merek;;;;;;
+KI 06.16.01;Substantif;Penunjukan Majelis Banding Merek;;;;;;
+KI 06.16.02;Substantif;Penunjukan Tim Pemeriksa Penghapusan Merek Terdaftar;;;;;;
+KI 06.17;Substantif;Banding Indikasi Geografis;;;;;;
+KI 06.17.01;Substantif;"Pelanggaran/Tanggapan/Analisa Hukum Indikasi
+Geografis
+";;;;;;
+KI 06.17.02;Substantif;Pendapat Hukum/Saksi Ahli Indikasi Geografis;;;;;;
+KI 06.18;Substantif;Pendaftaran Merek Internasional;;;;;;
+KI 06.19;Substantif;Statement of Grant Protection;;;;;;
+KI 06.20;Substantif;Provisional Refusal;;;;;;
+KI 06.21;Substantif;Statement of Grant Protection Following Provisional Refusal;;;;;;
+KI 06.22;Substantif;Final Refusal;;;;;;
+KI 06.23;Substantif;Notifikasi Transformasi;;;;;;
+KI 06.24;Substantif;Notifikasi Penggantian;;;;;;
+KI 07.01;Substantif;Proses Penyelesaian Permohonan Pendaftaran;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.01;Substantif;Pemeriksaan Administrasi/Formalitas;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.02;Substantif;Perbaikan Data Permohonan;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.03;Substantif;Publikasi/Pengumuman/Berita Resmi Merek;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.04;Substantif;Keberatan/Oposisi;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.05;Substantif;Penarikan Kembali;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.06;Substantif;Pemeriksaan Substantif;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.07;Substantif;Pemberitahuan Usul Penolakan;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.08;Substantif;Pemberitahuan Penolakan Definitif;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.09;Substantif;Ralat/Perbaikan;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.10;Substantif;Pengalihan Hak;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.11;Substantif;Perubahan Nama dan Alamat;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.12;Substantif;Penghapusan;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.01.13;Substantif;Pembatalan;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.02;Substantif;Sertifikat/Kutipan;2;Tahun setelah masa perlindungan berakhir;3;;Permanen;
+KI 07.03;Substantif;Keterangan Status Permohonan Pendaftaran;1;;1;;Musnah;
+KI 07.04;Substantif;Permohonan Petikan Resmi;1;;1;;Musnah;
+KI 07.05;Substantif;Pengawasan Indikasi Geografis Terdaftar;3;;3;;Musnah;
+KI 07.06;Substantif;Keterangan Tertulis Indikasi Geografis;1;;1;;Musnah;
+KI 07.07;Substantif;Pemakai Indikasi Geografis Terdaftar;2;"Tahun setelah
+masa
+perlindungan
+berakhir
+";3;;Musnah;
+KI 07.08;Substantif;Pertimbangan/Rekomendasi Tim Ahli Indikasi Geografis;2;"Tahun setelah
+masa
+perlindungan
+berakhir
+";3;;Permanen;
+KI 08.01;Substantif;Pemberkasan;2;;3;;Musnah;
+KI 08.01.01;Substantif;Laporan Kejadian/Pengaduan;2;;3;;Musnah;
+KI 08.01.02;Substantif;Surat Perintah Tugas;2;;3;;Musnah;
+KI 08.01.03;Substantif;Surat Perintah Penyidikan;2;;3;;Musnah;
+KI 08.01.04;Substantif;Surat Perintah Penyitaan;2;;3;;Musnah;
+KI 08.01.05;Substantif;Surat Perintah Penggeledahan;2;;3;;Musnah;
+KI 08.01.06;Substantif;"Surat Pemberitahuan Dimulainya Penyidikan
+(SPDP)
+";2;;3;;Musnah;
+KI 08.01.07;Substantif;Surat Panggilan;2;;3;;Musnah;
+KI 08.01.08;Substantif;Surat Permintaan Ahli;2;;3;;Musnah;
+KI 08.01.09;Substantif;"Surat Permintaan Bantuan Penggeledahan/
+Penyitaan
+";2;;3;;Musnah;
+KI 08.01.10;Substantif;Surat Tanda Penerimaan Barang Bukti;2;;3;;Musnah;
+KI 08.01.11;Substantif;Surat Pengembalian Barang Bukti;2;;3;;Musnah;
+KI 08.01.12;Substantif;"Surat Penetapan (Khusus/Persetujuan) Penyitaan
+Kepada Ketua Pengadilan
+";2;;3;;Musnah;
+KI 08.01.13;Substantif;"Surat Penetapan (Khusus/Persetujuan)
+Penggeledahan Kepada Ketua Pengadilan
+";2;;3;;Musnah;
+KI 08.01.14;Substantif;Surat Pengiriman Berkas Perkara;2;;3;;Musnah;
+KI 08.01.15;Substantif;Surat Pengiriman Tersangka dan Barang Bukti;2;;3;;Musnah;
+KI 08.01.16;Substantif;Surat Tanda Terima Laporan;2;;3;;Musnah;
+KI 08.01.17;Substantif;"Surat Permohonan Koordinasi (POLRI dan Kanwil)
+";2;;3;;Musnah;
+KI 08.01.18;Substantif;Surat SP3;2;;3;;Musnah;
+KI 08.01.19;Substantif;Surat Ketetapan tentang Penghentian Penyidikan;2;;3;;Musnah;
+KI 08.01.20;Substantif;Surat Permohonan Ijin Khusus Pemusnahan BB;2;;3;;Musnah;
+KI 08.01.21;Substantif;Surat Perintah Pengambilan Barang Sitaan;2;;3;;Musnah;
+KI 08.01.22;Substantif;"Surat Pemberitahuan perkembangan Hasil
+Penyidikan Perkara (SP2HP)
+";2;;3;;Musnah;
+KI 08.01.23;Substantif;Surat Perintah Penyegelan;2;;3;;Musnah;
+KI 08.01.24;Substantif;Surat Tugas Pengawasan dan Pengamatan (WASMAT);2;;3;;Musnah;
+KI 08.01.25;Substantif;Surat Pemberitahuan Penghentian Penyidikan;2;;3;;Musnah;
+KI 08.01.26;Substantif;Surat Undangan Wawancara;2;;3;;Musnah;
+KI 08.01.27;Substantif;"Surat Perintah Penghentian Pengawasan dan
+Pengamatan
+";2;;3;;Musnah;
+KI 08.01.28;Substantif;Surat Penutupan Situs;2;;3;;Musnah;
+KI 08.01.29;Substantif;"Surat Perintah Penitipan Barang/Titip Rawat
+Barang Bukti
+";2;;3;;Musnah;
+KI 08.01.30;Substantif;Gelar Perkara Naik Status Saksi Jadi Tersangka;2;;3;;Musnah;
+KI 08.01.31;Substantif;Surat Pemberitahuan Hasil Wasmat/Penyelidikan;2;;3;;Musnah;
+KI 08.02;Substantif;"Pemantauan
+- Surat Perintah Tugas
+";1;;2;;Musnah;
+KI 08.03;Substantif;"Pencegahan dan Penyelesaian Sengketa Alternatif :
+- Surat Perintah Tugas
+- Surat Panggilan
+- Berita Acara Mediasi
+";1;;2;;Permanen;
+KI 08.04;Substantif;Seleksi Administrasi Calon PPNS Kekayaan Intelektual;2;Tahun setelah pengangkatan;3;;Musnah;
+KI 08.05;Substantif;Pengangkatan PPNS Kekayaan Intelektual;2;Tahun setelah pengangkatan;3;;Musnah;
+KI 08.06;Substantif;Pengangkatan Kembali PPNS Kekayaan Intelektual;2;Tahun setelah pengangkatan;3;;Musnah;
+KI 08.07;Substantif;Pelantikan PPNS Kekayaan Intelektual;2;Tahun setelah pengangkatan;3;;Musnah;
+KI 08.08;Substantif;Mutasi PPNS Kekayaan Intelektual;2;Tahun setelah pengangkatan;3;;Musnah;
+KI 08.09;Substantif;"Pemberhentian PPNS Non Teknis Operasional Kekayaan
+Intelektual
+";2;Tahun setelah pengangkatan;3;;Musnah;
+KI 08.10;Substantif;"Pemberhentian PPNS Atas Permintaan Sendiri Kekayaan
+Intelektual
+";2;Tahun setelah pengangkatan;3;;Musnah;
+KI 08.11;Substantif;Perpanjangan Kartu Tanda Penyidik Kekayaan Intelektual;2;Tahun setelah pengangkatan;3;;Musnah;
+KI 08.12;Substantif;"Penerbitan Kartu Tanda Penyidik yang Hilang/Rusak PPNS
+Kekayaan Intelektual
+";2;Tahun setelah pengangkatan;3;;Musnah;
+KI 09.01;Substantif;Konsultan Kekayaan Intelektual;2;;2;;Permanen;
+KI 09.02;Substantif;"Inventarisasi Kekayaan Intelektual Komunal (KIK): 
+- Permohonan Pencatatatan KIK
+- Formulir Kekayaan Intelektual Komunal
+- Kelengkapan Administrasi
+- Surat Pemberitahuan Kekurangan Kelengkapan
+- Permohonan Data Dukung
+- Pengusulan Penetapan Hasil Inventarisasi
+- Tanda Terima Surat Penyerahan
+- Surat Pencatatan KIK/Sertifikat KIK
+";;;;;;
+KI 09.03;Substantif;Pendampingan Inventarisasi KIK;;;;;;
+KI 09.04;Substantif;Studi Lapangan;;;;;;
+KI 09.05;Substantif;Pertukaran Data;;;;;;
+KI 09.06;Substantif;Mediasi KIK;;;;;;
+KI 09.07;Substantif;Keberatan;;;;;;
+KI 09.08;Substantif;Mengubah Data KIK;;;;;;
+KI 09.09;Substantif;Menghapus Data KIK;;;;;;
+KI 09.10;Substantif;Pendokumentasian/Pengarsipan KIK;;;;;;
+HA 01.01;Substantif;"Telaahan/Analisis Dugaan Pelanggaran HAM : Naskah-naskah dinas yang berkaitan dengan ringkasan singkat dugaan pelanggaran HAM dengan memuat data dan informasi, dasar hukum dan peraturan perundang-undangan terkait analisis, serta kesimpulan ada atau tidaknya dugaan
+pelanggaran HAM
+";2;;3;;"Musnah
+
+";"kecuali
+Berskala
+Nasional, 
+Permanen"
+HA 01.02;Substantif;"Klarifikasi/Koordinasi/Konsultasi:Naskah-naskah dinas yang berkaitan dengan permohonan klarifikasi, koordinasi dan konsultasi untuk meminta/ mencari data dan informasi tentang dugaan pelanggara HAM serta upaya yang telah dan akan dilaksanakan oleh instansi terkait  untuk  menyelesaikan  dugaan  pelanggaran  HAM
+dimaksud
+";2;;3;;Musnah;
+HA 01.03;Substantif;"Informasi/Pemberitahuan/Ucapan Terima Kasih : Naskah dinas yang berkaitan dengan informasi/ pemberitahuan atas tindak lanjut klarifikasi/koordinasi/ konsultasi kepada pengadu serta ucapan terima kasih kepada instansi terkait yang telah menindaklanjuti saran dan
+rekomendasi dari Direktorat Jenderal Hak Asasi Manusia
+ ";2;;3;;Musnah;
+HA 01.04;Substantif;"Rekomendasi : Naskah-naskah dinas yang berkaitan dengan kesimpulan dan upaya penyelesaian atas hasil pemeriksaan pelanggaran HAM yang disampaikan kepada Pihak Terkait yang wajib dilaksanakan dan ditindaklanjuti dalam rangka penyelesaian
+pelanggaran HAM
+";2;;3;;Musnah;"kecuali
+Berskala
+Nasional, 
+Permanen"
+HA 01.05;Substantif;"HAM Aktual/Penanganan  Pemulihan Korban Dugaan Pelanggaran Hak Asasi Manusia Yang Berat  Secara
+Nonyudisial
+Naskah-naskah dinas yang berkaitan dengan dugaan pelanggaran HAM yang mendapat perhatian nasional dan internasional
+- Telaahan/Analisis dugaan pelanggaran HAM Aktual/Penanganan Pemulihan Korban Dugaan Pelanggaran Hak Asasi Manusia Yang Berat Secara Nonyudisial
+- Klarifikasi/Koordinasi/Konsultasi/FGD HAM Aktual/ Penanganan Pemulihan Korban Dugaan Pelanggaran Hak Asasi Manusia Yang Berat Secara Nonyudisial :
+- Informasi/Pemberitahuan/Ucapan Terima Kasih terkait HAM Aktual/Penanganan Pemulihan Korban Dugaan Pelanggaran Hak Asasi Manusia Yang Berat Secara Nonyudisial
+- Rekomendasi HAM Aktual/Penanganan Pemulihan Korban Dugaan Pelanggaran Hak Asasi Manusia Yang Berat Secara Nonyudisial
+- Pemantauan,  Evaluasi  dan  Pelaporan  HAM  Aktual
+/Penanganan Pemulihan Korban Dugaan Pelanggaran Hak Asasi Manusia Yang Berat Secara Nonyudisial
+";2;;3;;Musnah;
+HA 01.06;Substantif;"Pemantauan, Evaluasi dan Pelaporan Yankomas : Naskah-naskah dinas yang berkaitan dengan pemantauan,
+evaluasi dan pelaporan Yankomas
+";2;;3;;Musnah;
+HA 02;Substantif;"Kerja Sama Hak Asasi Manusia : Naskah-naskah yang berkaitan Kerja Sama Hak Asasi Manusia dari keseluruhan proses penyiapan perumusan dan pelaksanaan kebijakan, pemberian bimbingan teknis dan supervisi, serta pelaksanaan pemantauan, evaluasi, dan pelaporan di bidang kerja sama hak asasi manusia dengan
+mitra dalam negeri dan luar negeri
+";;;;;;
+HA 02.01;Substantif;"Kerja Sama Dalam Negeri Dan Rencana Aksi Nasional
+Hak Asasi Manusia
+";;;;;;
+HA 02.01.01;Substantif;"Kerja sama HAM Antar Instansi Pemerintah (Kementerian/Lembaga, Pemerintah Daerah Provinsi dan Kabupaten/Kota)
+- Pejajakan
+- Fasilitasi
+- Tim
+- Dialog/FGD, konsultasi
+- Rapat Koordinasi
+- Seminar
+- Perjanjian Kerja Sama
+";2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.01.02;Substantif;"Kerja sama HAM dengan Mitra Pemerintah :
+- Pejajakan
+- Fasilitasi
+- Tim
+- Dialog /FGD, konsultasi
+- Rapat Koordinasi
+- Seminar
+- Kesepakatan Bersama
+- Perjanjian Kerja Sama
+";2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.01.03;Substantif;"Kerja sama HAM dengan dengan Lembaga Swadaya Masyarakat/LSM dan Korporasi: 
+- Pejajakan
+- Fasilitasi
+- Tim
+- Dialog /FGD, konsultasi
+- Rapat Koordinasi
+- Seminar
+- Kesepakatan Bersama
+- Perjanjian Kerja Sama
+
+";2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.01.04;Substantif;"Kerja Sama HAM dengan Lembaga Pedidikan
+- Pejajakan
+- Fasilitasi
+- Tim
+- Dialog /FGD, konsultasi
+- Lokakarya
+- Seminar
+- Perjanjian Kerja Sama
+- Konsultan
+";2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.02;Substantif;Kerja Sama Luar Negeri;2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.02.01;Substantif;"Kerja sama HAM Bilateral : 
+- Pejajakan
+- Fasilitasi
+- Tim
+- Dialog /FGD, konsultasi
+- Rapat Koordinasi
+- Workshop
+- Bimbingan Teknis
+- Perjanjian Kerja Sama
+- Laporan Kunjungan
+";2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.02.02;Substantif;"Kerja sama HAM Regional :
+- Pejajakan
+- Fasilitasi
+- Tim
+- Dialog /FGD, konsultasi
+- Rapat Koordinasi
+- Lokakarya
+- Seminar
+- Perjanjian Kerja Sama
+- Simposium
+";2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.02.03;Substantif;"Kerja sama HAM Organisasi Internasional : - Pejajakan
+- Fasilitasi
+- Dialog/Konsultasi
+- Workshop
+- Seminar
+- Perjanjian Kerja Sama
+";2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.02.04;Substantif;"Kerja sama HAM Badan-Badan Khusus Perserikatan Bangsa-Bangsa
+- Pejajakan
+- Fasilitasi
+- Dialog/Konsultasi
+- Workshop
+- Seminar
+- Perjanjian Kerja Sama
+";2; Tahun setelah kerjasama berakhir;3;;Musnah;kecuali MoU Permanen
+HA 02.03;Substantif;"Pemantauan, Evaluasi, dan Pelaporan di bidang Kerja Sama Hak Asasi Manusia : 
+- Pelaporan Aksi HAM
+- Pelaporan Rencana Aksi Nasional HAM (RANHAM)
+ ";2; Tahun setelah kerjasama berakhir;3;;Permanen;
+HA 03.01;Substantif;"Perencanaan Teknis dan Pengembangan Tenaga Diseminasi dan Penguatan Hak Asasi Manusia :
+- Tenaga diseminasi dan penguatan hak asasi manusia
+- Analisis kebutuhan bahan diseminasi dan penguatan HAM
+- Penyusunan (Bahan, Koordinasi/Forum Group Discussion)
+- Pengkajian draft
+- Workshop
+Evaluasi dan validasi
+";;Sampai dengan diperbaharui;3;;Permanen;
+HA 03.02;Substantif;"Diseminasi dan Penguatan HAM bagi Aparatur
+- Koordinasi
+- Bimbingan Teknis HAM
+- Materi
+- Narasumber
+- Laporan hasil kegiatan Diseminasi dan Penguatan HAM
+";2;;3;;Musnah;
+HA 03.03;Substantif;"Diseminasi dan Penguatan HAM bagi Masyarakat
+- Koordinasi
+- Bimbingan Teknis HAM
+- Materi
+- Narasumber
+- Laporan hasil kegiatan Diseminasi dan Penguatan HAM
+";2;;3;;Musnah;
+HA 03.04;Substantif;"Pemantauan, Evaluasi, dan Pelaporan di Bidang Diseminasi
+dan Penguatan Hak Asasi Manusia
+- Bahan Evaluasi
+- Analisis Evaluasi
+- Evaluasi dan Validasi
+";2;;3;;Musnah;
+HA 04.01;Substantif;"Analisis Peraturan Perundang-undangan Berperspektif Hak
+Asasi Manusia
+";;Sampai dengan usulan telaahan/rekome ndasi disetujui;3;;Permanen;
+HA 04.01.01;Substantif;"Analisis /Telaahan
+- Rapat Koordinasi
+- Forum Group Discussion (FGD)
+- Bimbingan Teknis
+- Fasilitasi
+";;Sampai dengan usulan telaahan/rekome ndasi disetujui;3;;Permanen;
+HA 04.01.02;Substantif;Rekomendasi;;Sampai dengan usulan telaahan/rekome ndasi disetujui;3;;Permanen;
+HA 04.02;Substantif;"Penyiapan  dan  Evaluasi  Instrumen  Hak  Asasi  Manusia/
+Indikator Pembangunan Hak Asasi Manusia
+(Rancangan Undang-Undang (RUU), Rancangan Peraturan Presiden/Instruksi Presiden dan Rancangan Peraturan Menteri)
+Rapat Koordinasi
+- Forum Group Discussion /FGD
+- Finalisasi
+- Sosialisasi
+";;Sampai dengan diundangkan;3;;Permanen;
+HA 04.03;Substantif;"Pemantauan dan Pelaporan Implementasi Instrumen
+Hak Asasi Manusia.
+Naskah-naskah dinas yang berkaitan dengan pelaporan analisis implementasi instrumen internasional HAM yang telah diterima Indonesia yang berasal dari Kovenan, Konvensi, dan Protokol Opsional
+- Rapat Koordinasi
+- Forum Group Discussion /FGD
+- Finalisasi
+";2;;3;;Musnah;
+HA 05.01;Substantif;"Fasilitasi dan Informasi HAM Ekosob
+Penyusunan profil Pembangunan HAM bidang Ekosob Pengumpul bahan
+- Pendokumentasi bahan
+- Pengolahan bahan
+- Analisis
+- Perumusan
+";;;;;;
+HA 05.02;Substantif;"Fasilitasi dan Informasi HAM Sipol Penyusunan profil Pembangunan HAM bidang Sipol Pengumpul bahan
+- Pendokumentasi bahan
+- Pengolahan bahan
+- Analisis
+- Perumusan
+";;;;;;
+HA 05.03;Substantif;"Pemantauan, evaluasi, dan pelaporan di bidang fasilitasi hak asasi  manusia,  informasi  hak  asasi  manusia,  serta  profil
+Pembangunan Hak Asasi Manusia.
+";;;;;;
+HN 01.01;Substantif;"Dokumen Analisis dan Evaluasi Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Kegiatan
+- SK Tim
+- SK Narasumber
+- Surat Perintah
+";2;;3;;Musnah ; Kecuali Berskala Nasional, Permanen
+HN 01.02;Substantif;"Dokumen Pembangunan Hukum Nasional
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Kegiatan
+- SK Tim
+- SK Narasumber
+- Surat Perintah
+";1;Tahun setelah diperbaharui;5;;Dinilai Kembali;
+HN 01.03;Substantif;"Pedoman Analisis dan Evaluasi Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Kegiatan
+- SK Tim
+- SK Narasumber
+- Surat Perintah
+
+";2;Tahun setelah diperbaharui;3;;Dinilai Kembali;
+HN 01.04;Substantif;"Pemantauan Tindak Lanjut Rekomendasi Hasil Analisis dan
+Evaluasi Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Kegiatan
+- SK Tim
+- SK Narasumber
+- Surat Perintah
+";;;;;;
+HN 01.05;Substantif;"Jurnal Analisis dan Evaluasi Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Kegiatan
+- SK Tim
+- SK Mitra Bestari
+- Surat Perintah
+";2;;3;;Musnah;kecuali master permanen
+HN 01.06;Substantif;"Penyusunan Pedoman Audit Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Kegiatan
+- SK Tim
+- SK Narasumber
+- Surat Perintah
+";;;;;;
+HN 02.01;Substantif;"Program Legislasi Nasional
+Naskah Dinas yang dihasilkan :
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Narasumber
+";2;;3;;Musnah;
+HN 02.02;Substantif;"Program Legislasi Daerah : Naskah Dinas yang dihasilkan :
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Narasumber
+";2;;3;;Musnah;
+HN 02.03;Substantif;"Naskah Akademik Peraturan Perundang-undangan
+Naskah Dinas yang dihasilkan :
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Tim Penyusunan
+";2;;3;;Musnah;kecuali master permanen
+HN 02.04;Substantif;"Penyelarasan Naskah Akademik
+Naskah Dinas yang dihasilkan :
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Tim Penyelarasan
+- Surat Keterangan
+";2;;3;;3 Tahun;
+HN 03.01;Substantif;"Inventarisasi Peraturan Perundang-undangan dan Bahan
+Hukum Lainnya Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+";;Sampai dengan diperbaharui;1;;Dinilai Kembali;
+HN 03.02;Substantif;"Pengolahan Peraturan Perundang-undangan
+- Katalogisasi Peraturan Perundang-undangan
+- Abstraksi Peraturan Perundang-undangan
+- Katalogisasi Monografi Hukum
+- Klasifikasi Monografi Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+";1;Tahun setelah diperbaharui;1;;Dinilai Kembali;
+HN 03.03;Substantif;"Pengolahan Peraturan Perundang-undangan dan Bahan
+Hukum Lainnya Bentuk Offline dan Online
+- Bahan Perundang-undangan (Row Data)
+- Hasil Entry Data
+- Back Up
+- Database
+Naskah Dinas yang dihasilkan :
+- Surat Undangan Rapat
+- Nota Dinas
+
+";1;Tahun setelah diperbaharui;2;;Dinilai Kembali;
+HN 03.04;Substantif;"Sosialisasi/Penyebarluasan Peraturan Perundang-undangan
+dan Bahan Hukum Lainnya
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- Konsinyering
+- SK Kegiatan
+- Surat Perintah
+";2;;1;;Musnah;
+HN 03.05;Substantif;"Evaluasi dan Pemantauan Pengelola Jaringan Dokumentasi
+dan Informasi Hukum
+Naskah Dinas yang dihasilkan :
+- Surat Undangan Rapat
+- Nota Dinas
+- Surat Perintah/Penugasan
+";2;;1;;Musnah;
+HN 03.06;Substantif;"Publikasi Hasil Kegiatan Badan Pembinaan Hukum Nasional
+Naskah Dinas yang dihasilkan :
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Tim
+";3;;2;;Dinilai Kembali;
+HN 03.07;Substantif;"Bimbingan Teknis Pusat Dokumentasi dan Jaringan
+Informasi Hukum Nasional
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- SK Kegiatan
+- SK Narasumber
+- Surat Perintah
+";2;;1;;Musnah;
+HN 03.08;Substantif;"Pertemuan Nasional Pengelola Jaringan Dokumentasi dan Informasi Hukum
+Naskah Dinas yang dihasilkan: - Surat Undangan Rapat
+- Nota Dinas
+- SK Kegiatan
+- SK Narasumber
+- Surat Perintah
+
+";2;;1;;Musnah;
+HN 04.01;Substantif;"Penyusunan Kebijakan Teknis Pembentukan Tenaga
+Fungsional Penyuluh Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- Konsinyering
+- Surat Perintah
+- SK Kegiatan
+- SK Narasumber
+";3;;2;;Musnah;kecuali master permanen
+HN 04.02;Substantif;"Penyuluhan Hukum Melalui Media Elektronik dan Cetak
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- Surat Perintah
+- SK Kegiatan
+";3;;2;;Musnah;
+HN 04.03;Substantif;"Konsultasi dan Bantuan Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- Konsinyering
+- Surat Perintah
+- SK Kegiatan
+- SK Narasumber
+";3;;2;;Dinilai Kembali;
+HN 04.04;Substantif;"Pengelolaan dan Pengembangan Keluarga Sadar Hukum
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- Konsinyering
+- Surat Perintah
+- SK Kegiatan
+- SK Narasumber
+
+";2;;3;;Musnah;
+HN 04.05;Substantif;"Forum Koordinasi Pelaksanaan Penyuluhan Hukum Seluruh
+Indonesia
+Naskah Dinas yang dihasilkan:
+- Surat Undangan Rapat
+- Nota Dinas
+- Surat Perintah
+- Konsinyering
+- SK Kegiatan
+";1;;2;;Musnah;
+SM 01.01;Substantif;"Perencanaan Program Diklat
+- Agenda Rapat Perencanaan Program Pelatihan Kepemimpinan
+- Undangan Rapat Koordinasi Pelatihan Kepemimpinan
+- Permohonan Izin dan Fasilitator/Penceramah Pelatihan Kepemimpinan
+- Penyampaian Notula Rapat Koordinasi Pelatihan
+Kepemimpinan
+";;;;;;
+SM 01.02;Substantif;"Kurikulum, Metode Standar/Mutu dan Pedoman Diklat
+- Undangan Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Pelatihan Kepemimpinan
+- Penyampaian Notula Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Pelatihan Kepemimpinan
+- Undangan Rapat Koordinasi Penyusunan Modul Pelatihan Kepemimpinan
+- Rapat Koordinasi Optimalisasi Kegiatan Penyusunan Modul Pelatihan Kepemimpinan
+- Penyusunan Modul Pelatihan Kepemimpinan
+- Telaahan Pelatihan Kepemimpinan
+";;;;;;
+SM 01.03;Substantif;"Penyelenggaraan : - Pemberitahuan Penyelenggaraan Pelatihan Kepemimpinan
+- Surat Permintaan Peserta Pelatihan Kepemimpinan ke Sekretariat Jenderal Kementerian Hukum dan HAM
+- SK Penetapan Peserta Pelatihan Kepemimpinan
+- Pemanggilan Peserta Pelatihan Kepemimpinan
+- Permohonan Pembukaan dan Penceramah Pelatihan Kepemimpinan
+- Undangan Pembukaan Pelatihan Kepemimpinan
+- Permohonan Tenaga Pengajar Pelatihan Kepemimpinan
+- Permohonan Narasumber Pelatihan Kepemimpinan
+- Permohonan Ijin Kunjungan Lapangan Pelatihan Kepemimpinan
+- Permintaan Kode Registrasi Alumni (KRA) Pelatihan Kepemimpinan
+- Permintaan Nomor Surat Tanda Tamat Pelatihan (STTP) Pelatihan Kepemimpinan
+- Permohonan Penutupan Pelatihan Kepemimpinan
+- Undangan Penutupan Pelatihan Kepemimpinan
+- Permintaan Nomor dan Tanda Tangan Piagam Penghargaan Pelatihan Kepemimpinan
+- Permohonan  Pengiriman  Surat  Tanda  Tamat  Pelatihan
+(STTP) Pelatihan Kepemimpinan
+";;;;;;
+SM 01.04;Substantif;"Evaluasi :
+- Pedoman Coach dan Mentor Pelatihan Kepemimpinan
+- Permohonan sebagai Mentor Peserta Pelatihan Kepemimpinan
+- Permohonan sebagai Penguji Seminar Aksi Perubahan Kinerja Organisasi Pelatihan Kepemimpinan
+- Permohonan sebagai Coach Seminar aksi Perubahan Kinerja Organisasi Pelatihan Kepemimpinan
+- Undangan Rapat Simulasi Persiapan Seminar Aksi Perubahan Pelatihan Kepemimpinan
+- Undangan Penyamaan Persepsi Penguji, Coach dan Mentor
+Seminar Aksi Perubahan Pelatihan Kepemimpinan
+- Undangan Rapat Persiapan Seminar Rancangan Aksi Perubahan Pelatihan Kepemimpinan
+- Undangan Seminar Rancangan Aksi Perubahan Pelatihan Kepemimpinan
+- Undangan Rapat Persiapan Seminar Implementasi Aksi Perubahan Pelatihan Kepemimpinan
+- Undangan Seminar Implementasi Aksi Perubahan Pelatihan Kepemimpinan
+- Undangan Rapat Evaluasi Pelatihan Kepemimpinan
+- Laporan Pelaksanaan Pelatihan Kepemimpinan
+
+";;;;;;
+SM 02.01;Substantif;"Perencanaan Program Diklat
+- Agenda Rapat Perencanaan Program Pelatihan Teknis
+- Undangan Rapat Koordinasi Pelatihan Teknis
+- Permintaan Data Peserta Pelatihan Teknis
+- Permohonan Izin dan Fasilitator/Penceramah Pelatihan Teknis
+- Penyampaian Notula Rapat Koordinasi Pelatihan Teknis
+";2;;3;;Musnah;
+SM 02.02;Substantif;"Kurikulum, Metode Standar/Mutu dan Pedoman Diklat
+- Undangan Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Pelatihan Teknis
+- Penyampaian Notula Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Pelatihan Teknis
+- Undangan Rapat Koordinasi Penyusunan Modul Pelatihan Teknis
+- Rapat Koordinasi Optimalisasi Kegiatan Penyusunan Modul Pelatihan Teknis
+- Penyusunan Modul Pelatihan Teknis
+- Telaahan Pelatihan Teknis
+";;Selama menjadi pedoman;4;;Permanen;
+SM 02.03;Substantif;"Penyelenggaraan
+- Pemberitahuan Penyelenggaraan Pelatihan Teknis
+- Surat Permintaan Peserta Pelatihan Teknis ke Sekretariat Jenderal Kementerian Hukum dan HAM
+- SK Penetapan Peserta Pelatihan Teknis
+- Pemanggilan Peserta Pelatihan Teknis
+- Permohonan Pembukaan dan Penceramah Pelatihan Teknis
+- Undangan Pembukaan Pelatihan Teknis
+- Permohonan Tenaga Pengajar Pelatihan Teknis
+- Permohonan Ijin Kunjungan Lapangan Pelatihan Teknis
+- Permintaan Kode Registrasi Alumni (KRA) Pelatihan Teknis
+- Permintaan Nomor Surat Tanda Tamat Pelatihan (STTP) Pelatihan Teknis
+- Permohonan Penutupan Pelatihan Teknis
+- Undangan Penutupan Pelatihan Teknis
+- Permohonan Pengiriman Surat Tanda Tamat Pelatihan (STTP) Pelatihan Teknis
+
+";2;;3;;Musnah;
+SM 02.04;Substantif;"Evaluasi
+- Pedoman Coach dan Mentor Pelatihan Teknis
+- Permohonan sebagai Mentor Peserta Pelatihan Teknis
+- Permohonan sebagai Penguji Seminar Aksi Perubahan Kinerja Organisasi Pelatihan Teknis
+- Permohonan sebagai Coach Seminar aksi Perubahan Kinerja Organisasi Pelatihan Teknis
+- Undangan Rapat Simulasi Persiapan Seminar Aksi Perubahan Pelatihan Teknis
+- Undangan Penyamaan Persepsi Penguji, Coach dan Mentor Seminar Aksi Perubahan Pelatihan Teknis
+- Undangan Rapat Persiapan Seminar Rancangan Proyek Perubahan Pelatihan Teknis
+- Undangan Seminar Rancangan Proyek Perubahan Pelatihan Teknis
+- Undangan Rapat Evaluasi Pelatihan Teknis
+- Laporan Pelaksanaan Pelatihan Teknis
+";2;;3;;Musnah;
+SM 03.01;Substantif;"Perencanaan Program Diklat
+- Agenda Rapat Perencanaan Program Pelatihan Fungsional
+dan HAM
+- Undangan Rapat Koordinasi Pelatihan Fungsional dan HAM
+- Permintaan Data Peserta Pelatihan Fungsional dan HAM
+- Permohonan Izin dan Fasilitator/Penceramah Pelatihan Fungsional dan HAM
+- Penyampaian Notula Rapat Koordinasi Pelatihan
+Fungsional dan HAM
+";2;;3;;Musnah;
+SM 03.02;Substantif;"Kurikulum, Metode Standar/Mutu dan Pedoman Diklat
+- Undangan Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Pelatihan Fungsional dan HAM
+- Penyampaian Notula Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Pelatihan Fungsional dan HAM
+- Undangan Rapat Koordinasi Penyusunan Modul Pelatihan Fungsional dan HAM
+- Rapat Koordinasi Optimalisasi Kegiatan Penyusunan Modul Pelatihan Fungsional dan HAM
+- Penyusunan Modul Pelatihan Fungsional dan HAM
+- Telaahan Pelatihan Fungsional dan HAM
+";;Selama menjadi pedoman;4;;Musnah;
+SM 03.03;Substantif;"Penyelenggaraan
+- Pemberitahuan Penyelenggaraan Pelatihan Fungsional dan HAM
+- Surat Keputusan Peserta Pelatihan
+- Surat Keputusan Permohonan Tenaga Pengajar
+- Permohonan Tenaga Pengajar Pelatihan Fungsional dan HAM
+- Pemanggilan Peserta Pelatihan Fungsional dan HAM
+- Registrasi Peserta Pelatihan
+- Permohonan Pembukaan dan Penceramah Pelatihan Fungsional dan HAM
+- Undangan Pembukaan Pelatihan Fungsional dan HAM
+- Permohonan Ijin Kunjungan Lapangan Pelatihan Fungsional dan HAM
+- Permintaan Kode Registrasi Alumni (KRA) Pelatihan
+Fungsional dan HAM
+- Permintaan Nomor Surat Tanda Tamat Pelatihan (STTP) Pelatihan Fungsional dan HAM
+- Permohonan Penutupan Pelatihan Fungsional dan HAM
+- Undangan Penutupan Pelatihan Fungsional dan HAM
+- Permohonan Pengiriman Surat Tanda Tamat Pelatihan (STTP) Pelatihan Fungsional dan HAM
+
+";2;;3;;Musnah;
+SM 03.04;Substantif;"Evaluasi
+- Permohonan sebagai Penguji Seminar Aksi Perubahan Kinerja Organisasi Pelatihan Fungsional dan HAM
+- Undangan Rapat Evaluasi Pelatihan Fungsional dan HAM
+- Laporan Pelaksanaan Pelatihan Fungsional dan HAM
+- Pedoman Magang Pelatihan Fungsional Perancang Peraturan Perundang undangan
+- Undangan Rapat Persiapan Magang Pelatihan Fungsional Perancang Peraturan Perundang undangan
+- Permohonan Pembimbing Magang Pelatihan Fungsional Perancang Peraturan Perundang undangan
+- Permohonan Narasumber Pelatihan Fungsional Perancang Peraturan Perundang undangan
+- Permohonan Penguji Seminar pada Pelatihan Fungsional Penyuluh Hukum
+- Permohonan Penguji Seminar Hasil Penelitian Kemasyarakatan pada Pelatihan Fungsional Pembimbing Kemasyarakatan
+- Pelaksanaan Evaluasi Pasca Pelatihan
+- Laporan Tahunan Kegiatan Pusbang Diklat Fungham
+- LAKIP Pusbang Diklat Fungham
+";2;;3;;Dinilai Kembali;
+SM 04.01;Substantif;"Fasilitatif
+- Bimbingan Teknis/Fokus Grup Diskusi (FGD)/Workshop Program dan Kerjasama
+- Bimbingan Teknis/Fokus Grup Diskusi (FGD)/Workshop Kepegawaian
+- Bimbingan Teknis/Fokus Grup Diskusi (FGD)/Workshop
+Keuangan
+- Bimbingan Teknis/Fokus Grup Diskusi (FGD)/Workshop BMN, Humas dan Umum
+
+";2;;3;;Musnah;
+SM 04.02;Substantif;"Substantif
+- Penyusunan Kurikulum dan Modul Pengembangan Pelatihan Fungsional dan HAM
+- Penyusunan Kurikulum dan Modul Pelatihan Kepemimpinan
+- Penyusunan Kurikulum dan Modul Pelatihan Teknis
+- Penyusunan Pedoman dan/atau Instrumen Evaluasi
+- Penyusunan Standar Sistematika Laporan Pelatihan
+- Penyusunan Pedoman Sistematika Laporan Aktualisasi Latsar CPNS, Laporan Aksi Perubahan PKP, Laporan Aksi Perubahan PKA, Laporan Proyek Perubahan PKN dan Laporan Rencana Tindak Lanjut SPPA
+- Penyusunan Standar Penilaian Kompetensi
+";2;;3;;Musnah;
+SM 05.01;Substantif;Seminar;2;;3;;Musnah;
+SM 05.02;Substantif;Lokakarya;2;;3;;Musnah;
+SM 05.03;Substantif;Diskusi;2;;3;;Musnah;
+SM 05.04;Substantif;Simposium;2;;3;;Musnah;
+SM 05.05;Substantif;Temu Karya;2;;3;;Musnah;
+SM 05.06;Substantif;Bedah Buku;2;;3;;Musnah;
+SM 06.01;Substantif;"Penyusunan Program
+- Permohonan Persetujuan Usulan Standar Operasional Prosedur Penilaian Kompetensi
+- Usulan Indikator dan Target Kinerja Penilaian Kompetensi
+- Undangan Rapat Rencana Pelaksanaan Kegiatan dan Target Kinerja Tahun Anggaran Berjalan
+- Permohonan Usulan Kegiatan Tahun Depan
+- Penyusunan Perencanaan Anggaran
+- Peningkatan Kapasitas Asessor dalam pemberian feedback
+- Penulisan Laporan Individu Assesment Center
+";2;;3;;Musnah;
+SM 06.02;Substantif;"Standarisasi Kompetensi
+- Undangan Rapat Koordinasi Kegiatan Peningkatan Kapasitas Manajemen Penilaian Kompetensi
+- Undangan Rapat Pembahasan Soal Kegiatan Penilaian Kompetensi
+- Undangan Rapat Koordinasi Instrumen Situasional Judgement Test
+- Matrik Metode dan Alat Ukur Penilaian Kompetensi
+- Permohonan Penginputan Data Peserta Dalam Sistem CBT
+- Penyusunan Instrumen Test Potensi
+";2;;3;;Musnah;
+SM 06.03;Substantif;"Penilaian Kompetensi
+- Undangan Rapat Koordinasi Persiapan Kegiatan Penilaian Kompetensi
+- Pemanggilan Peserta Kegiatan Penilaian Kompetensi
+- Undangan Pembukaan Kegiatan Penilaian Kompetensi
+- Undangan Penilaian Pelatihan Petugas Aplikasi Situational Judgement Test (JST)
+- Jadwal Pelaksanaan Penilaian Kompetensi
+- Panduan Wawancara Penguji Teknis Uji Kompetensi
+- Permohonan sebagai Penguji Teknis Kegiatan Penilaian Kompetensi
+- Permohonan sebagai Narasumber Kegiatan Penilaian Kompetensi
+- Permohonan Tenaga Bantuan Giat Kegiatan Penilaian Kompetensi
+- Permohonan Tenaga Assessor
+- Permohoan Bantuan Teknis
+- Penunjukan Kegiatan
+- Permohonan Nomor Sertifikat
+- Undangan Rapat Uji Kompetensi Kegiatan Penilaian Kompetensi
+- Penyampaian Hasil Uji Kompetensi Kenaikan Jenjang
+Jabatan
+";2;;3;;Musnah;
+SM 06.04;Substantif;"Evaluasi : - Rencana Rapat Evaluasi Hasil Penilaian Kompetensi Peserta Pelatihan
+- Undangan Rapat Evaluasi Hasil Penilaian Kompetensi
+- Penyempurnaan Survei Evaluasi Penyelenggaraan Penilaian Kompetensi
+- Permohonan Data Hasil Penilaian Kompetensi Peserta Pelatihan
+- Penginputan Data Hasil Penilaian Kompetensi
+- Penyampaian Hasil Kegiatan Uji Kompetensi
+";2;;3;;Musnah;
+SM 07.01;Substantif;"Internasional
+Perjanjian Kerjasama Pengembangan Sumber Daya Manusia
+dengan Institusi/Lembaga Internasional
+";2;;4;;Musnah;
+SM 07.02;Substantif;"Institusi/Lembaga
+Perjanjian Kerjasama Pengembangan Sumber Daya Manusia dengan Insitusi/Lembaga
+";2;;5;;Musnah;
+SM 07.03;Substantif;"Universitas/Perguruan Tinggi
+Perjanjian Kerjasama Pengembangan Sumber Daya Manusia
+dengan Universitas/Perguruan Tinggi
+";2;;3;;Musnah;
+SM 08.01;Substantif;"Pengelolaan Data
+- Permohonan Pendaftaran Nama Domain Rumah Belajar
+- Percepatan Data Dosier Pegawai pada SIMPEG
+- Data Peserta Workshop Penggunaan Aplikasi CBHRIS dan
+e-Learning
+- Undangan Rapat Pembahasan Sertifikat Elektronik
+- Penyampaian Surat Keputusan Pimpinan tentang Penetapan Tim Penyusun Aplikasi Sertifikat Berbasis Elektronik dan SOP e-Sertifikat
+- Pembangunan Aplikasi Test Potensi
+- Pengembangan Aplikasi Rumah Belajar
+";;Selama daat belum berubah;;;Permananen;
+SM 08.02;Substantif;"Pengelolaan Jaringan
+- Permohonan Dukungan Infrastruktur Teknologi Informasi
+- Permohonan Dukungan Infrastruktur dan Jaringan
+- Daftar Aplikasi pada Unit Kerja
+- Perbaikan Kabel Fiber Optic (FO)
+- Evaluasi Kelayakan Infastruktur Jaringan
+
+";2;Tahun setelah audit;3;;Musnah;
+SM 09.01;Substantif;"Perencanaan Program Perkuliahan
+- Agenda Rapat Perencanaan Program Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Undangan Rapat Koordinasi Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permintaan Data Peserta Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan Izin dan Fasilitator/Penceramah Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Penyampaian Notula Rapat Koordinasi Perkuliahan
+Politeknik Ilmu Pemasyarakatan
+";2;;4;;Musnah;
+SM 09.02;Substantif;"Kurikulum, Metode Standar/Mutu dan Pedoman Perkuliahan
+- Undangan Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Penyampaian Notula Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Undangan Rapat Koordinasi Penyusunan Modul Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Rapat Koordinasi Optimalisasi Kegiatan Penyusunan Modul Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Penyusunan Modul Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Telaahan Perkuliahan Politeknik Ilmu Pemasyarakatan
+";;Selama menjadi pedoman;4;;Musnah;
+SM 09.03;Substantif;"Penyelenggaraan
+- Pemberitahuan Penyelenggaraan Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Pemanggilan Peserta Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan Pembukaan dan Penceramah Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Undangan Pembukaan Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan Tenaga Pengajar Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan Ijin Kunjungan Lapangan Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permintaan Kode Registrasi Alumni (KRA) Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permintaan Nomor Surat Tanda Tamat Pelatihan (STTP) Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan Penutupan Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Undangan Penutupan Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan  Pengiriman  Surat  Tanda  Tamat  Pelatihan
+(STTP) Perkuliahan Politeknik Ilmu Pemasyarakatan
+";2;;4;;Musnah;
+SM 09.04;Substantif;"Evaluasi
+- Pedoman Coach dan Mentor Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan sebagai Mentor Peserta Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan sebagai Penguji Seminar Aksi Perubahan Kinerja Organisasi Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Permohonan sebagai Coach Seminar aksi Perubahan Kinerja Organisasi Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Undangan Rapat Simulasi Persiapan Seminar Aksi Perubahan Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Undangan Penyamaan Persepsi Penguji, Coach dan Mentor
+Seminar Aksi Perubahan Perkuliahan Politeknik Ilmu
+Pemasyarakatan
+- Undangan Rapat Persiapan Seminar Rancangan Proyek Perubahan Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Undangan Seminar Rancangan Proyek Perubahan Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Undangan Rapat Evaluasi Perkuliahan Politeknik Ilmu Pemasyarakatan
+- Laporan Pelaksanaan Perkuliahan Politeknik Ilmu
+Pemasyarakatan
+
+";2;;4;;Musnah;
+SM 10.01;Substantif;"Perencanaan Program Perkuliahan
+- Agenda Rapat Perencanaan Program Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Rapat Koordinasi Perkuliahan Politeknik Ilmu Imigrasi
+- Permintaan Data Peserta Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan Izin dan Fasilitator/Penceramah Perkuliahan Politeknik Ilmu Imigrasi
+- Penyampaian Notula Rapat Koordinasi Perkuliahan
+Politeknik Ilmu Imigrasi
+";2;;4;;Musnah;
+SM 10.02;Substantif;"Kurikulum, Metode Standar/Mutu dan Pedoman Perkuliahan
+- Undangan Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Perkuliahan Politeknik Ilmu Imigrasi
+- Penyampaian Notula Rapat Penyusunan Modul, Bahan Ajar, dan Bahan Tayang Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Rapat Koordinasi Penyusunan Modul Perkuliahan Politeknik Ilmu Imigrasi
+- Rapat Koordinasi Optimalisasi Kegiatan Penyusunan Modul Perkuliahan Politeknik Ilmu Imigrasi
+- Penyusunan Modul Perkuliahan Politeknik Ilmu Imigrasi
+- Telaahan Perkuliahan Politeknik Ilmu Imigrasi
+";2;;4;;Musnah;
+SM 10.03;Substantif;"Penyelenggaraan : - Pemberitahuan Penyelenggaraan Perkuliahan Politeknik Ilmu Imigrasi
+- Pemanggilan Peserta Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan Pembukaan dan Penceramah Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Pembukaan Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan Tenaga Pengajar Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan Ijin Kunjungan Lapangan Perkuliahan Politeknik Ilmu Imigrasi
+- Permintaan Kode Registrasi Alumni (KRA) Perkuliahan Politeknik Ilmu Imigrasi
+- Permintaan Nomor Surat Tanda Tamat Pelatihan (STTP) Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan Penutupan Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Penutupan Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan Pengiriman Surat Tanda Tamat Pelatihan (STTP) Perkuliahan Politeknik Imigrasi
+";2;;4;;Musnah;
+SM 10.04;Substantif;"Evaluasi
+- Pedoman Coach dan Mentor Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan sebagai Mentor Peserta Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan sebagai Penguji Seminar Aksi Perubahan Kinerja Organisasi Perkuliahan Politeknik Ilmu Imigrasi
+- Permohonan sebagai Coach Seminar aksi Perubahan Kinerja Organisasi Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Rapat Simulasi Persiapan Seminar Aksi Perubahan Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Penyamaan Persepsi Penguji, Coach dan Mentor Seminar Aksi Perubahan Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Rapat Persiapan Seminar Rancangan Proyek Perubahan Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Seminar Rancangan Proyek Perubahan Perkuliahan Politeknik Ilmu Imigrasi
+- Undangan Rapat Evaluasi Perkuliahan Politeknik Ilmu Imigrasi
+- Laporan Pelaksanaan Perkuliahan Politeknik Ilmu Imigrasi
+
+";2;;4;;Musnah;
+LT 01.01;Substantif;"Kelompok Substansi Penelitian dan Pengembangan
+Pembentukan Regulasi
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program, dan anggaran penelitian dan pengembangan, pelaksanaan penelitian dan pengembangan, pemantauan, evaluasi, dan pelaporan, serta pelaksanaan  koordinasi  dan  kerja  sama  penelitian  dan
+pengembangan di bidang pembentukan regulasi.
+";;;;;;
+LT 01.02;Substantif;"Kelompok Substansi Penelitian Dan Pengembangan Penegakan Hukum :
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program, dan anggaran penelitian dan pengembangan, pelaksanaan penelitian dan pengembangan, pemantauan, evaluasi, dan pelaporan, serta pelaksanaan  koordinasi  dan  kerja  sama  penelitian  dan pengembangan di bidang penegakkan hukum.
+
+";;;;;;
+LT 01.03;Substantif;"Kelompok Substansi Penelitian dan Pengembangan
+Pelayanan Hukum :
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program, dan anggaran penelitian dan pengembangan, pelaksanaan penelitian dan pengembangan, pemantauan, evaluasi, dan pelaporan, serta pelaksanaan  koordinasi  dan  kerja  sama  penelitian  dan
+pengembangan di bidang pelayanan hukum.
+";;;;;;
+LT 02.01;Substantif;"Kelompok  Substansi  Penelitian  dan  Pengembangan  Sipil, Politik, dan Pembentukan Regulasi :
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program dan anggaran penelitian dan pengembangan, pelaksanaan penelitian dan
+pengembangan,  pelaksanaan  koordinasi  dan  kerja  sama penelitian dan pengembangan, serta pemantauan, evaluasi, dan pelaporan pelaksanaan penelitian dan pengembangan di
+bidang sipil dan politik dan pembentukan regulasi.
+
+";3;;2;;"Musnah
+
+";"kecuali Hasil
+Penelitian dan
+Pengembanga
+n Hukum
+berskala
+nasional,
+Permanen"
+LT 02.02;Substantif;"Kelompok Substansi Penelitian dan Pengembangan Ekonomi,
+Sosial, Budaya, dan Pembentukan Regulasi.
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program dan anggaran penelitian dan pengembangan, pelaksanaan penelitian dan pengembangan, pelaksanaan koordinasi dan kerja sama penelitian dan pengembangan, serta pemantauan, evaluasi, dan pelaporan pelaksanaan penelitian dan pengembangan di
+bidang ekonomi, sosial, budaya, dan pembentukan regulasi.
+";3;;2;;"Musnah
+
+";"kecuali Hasil
+Penelitian dan
+Pengembanga
+n Hukum
+berskala
+nasional,
+Permanen"
+LT 02.03;Substantif;"Kelompok Substansi Penelitian dan Pengembangan Resolusi
+Konflik dan Pembentukan Regulasi.
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program dan anggaran penelitian dan pengembangan, pelaksanaan penelitian dan pengembangan, pelaksanaan koordinasi dan kerja sama penelitian dan pengembangan, serta pemantauan, evaluasi, dan pelaporan pelaksanaan penelitian dan pengembangan di
+bidang resolusi konflik dan pembentukan regulasi.
+";3;;2;;"Musnah
+
+";"kecuali Hasil
+Penelitian dan
+Pengembanga
+n Hukum
+berskala
+nasional,
+Permanen"
+LT 03.01;Substantif;"Kelompok Substansi Penelitian dan Pengembangan
+Administrasi Fasilitatif
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program, dan anggaran penelitian dan pengembangan kebijakan, pelaksanaan penelitian dan pengembangan kebijakan, pelaksanaan koordinasi dan kerja sama penelitian dan pengembangan kebijakan, serta pemantauan, evaluasi, dan pelaporan pelaksanaan  penelitian  dan  pengembangan  di  bidang
+administrasi fasilitatif.
+";3;;2;;Musnah ;kecuali master, permanen
+LT 03.02;Substantif;"Kelompok Substansi Penelitian dan Pengembangan Sumber
+Daya Manusia
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program, dan anggaran penelitian dan pengembangan kebijakan, pelaksanaan penelitian dan pengembangan kebijakan, pelaksanaan koordinasi dan kerja sama penelitian dan pengembangan kebijakan, serta pemantauan, evaluasi, dan pelaporan pelaksanaan penelitian dan pengembangan di bidang sumber
+daya manusia.
+";3;;3;;;
+LT 03.03;Substantif;"Kelompok Substansi Penelitian dan Pengembangan
+Pengawasan.
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program, dan anggaran penelitian dan pengembangan kebijakan, pelaksanaan penelitian dan pengembangan kebijakan, pelaksanaan koordinasi dan kerja sama penelitian dan pengembangan kebijakan, serta pemantauan, evaluasi, dan pelaporan pelaksanaan  penelitian  dan  pengembangan  di  bidang
+pengawasan.
+";3;;4;;;
+LT 04.01;Substantif;"Kelompok Substansi Analisis Data dan Informasi Penelitian
+Hukum dan Hak Asasi Manusia
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program dan anggaran, pelaksanaan analisis data dan informasi, pemantauan, evaluasi, dan pelaporan pelaksanaan, pelaksanaan koordinasi  dan  kerja  sama  dibidang  analisis  data  dan
+informasi.
+";3;;3;;Musnah ;kecuali master, permanen
+LT 04.02;Substantif;"Kelompok Substansi Pengembangan Teknologi dan Sistem
+Informasi Penelitian Hukum dan Hak Asasi Manusia
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program dan anggaran, pelaksanaan analisis data dan informasi, pemantauan, evaluasi, dan pelaporan pelaksanaan, pelaksanaan koordinasi dan kerja sama dibidang teknologi dan sistem
+informasi.
+";2;Tahun setelah diperbaharui;2;;Musnah;
+LT 04.03;Substantif;"Kelompok Substansi Pengelolaan Publikasi Ilmiah Penelitian
+Hukum dan Hak Asasi Manusia
+Naskah-naskah dinas berkaitan dengan penyusunan perumusan kebijakan teknis, program dan anggaran, pelaksanaan analisis data dan informasi, pemantauan, evaluasi,   dan   pelaporan   pelaksanaan,   pelaksanaan
+koordinasi dan kerja sama di bidang publikasi ilmiah.
+";3;;2;;Musnah;
