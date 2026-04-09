@@ -1,5 +1,24 @@
-# CodeIgniter 4 Application Starter
+# Sistem Pendukung Keputusan Retensi Arsip (TOPSIS)
 
+Nama: Ridha Fauziah
+
+## Deskripsi
+Sistem ini digunakan untuk memberikan rekomendasi musnah atau permanen  terhadap arsip yang berstatus dinilai kembali berdasarkan Jadwal Retensi Arsip (JRA) menggunakan metode TOPSIS berdasarkan kriteria: 
+- Nilai Guna Arsip
+- Tingkat Akses Arsip
+- Waktu Aktif
+- Waktu Inaktif
+- Tingkat Perkembangan
+
+## Fitur Sistem
+- Input data klasifikasi arsip
+- Perhitungan metode TOPSIS
+- Hasil rekomendasi:
+  - Musnah
+  - Permanen
+    
+## Dokumen Skripsi
+(LINK PDF DI SINI)
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
